@@ -8,7 +8,6 @@
     <link rel="shortcut icon" type="image/x-icon" href="{% link favicon.ico %}" />
 
     <link rel="stylesheet" href="{% link static/css/main.css %}" />
-    <link rel="stylesheet" href="{% link static/flag-icon-css/css/flag-icon.min.css %}" />
 
     {% assign posts = site.posts | where: "i18n", page.i18n | sort: "lang" %}
     {% for post in posts %}
