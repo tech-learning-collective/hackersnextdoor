@@ -2,4 +2,27 @@
 layout: html5
 ---
 
+<p>{{ site.title }} session details for</p>
+
+{% assign the_title = page.title | split: ":" | first %}
+{% assign sub_title = page.title | split: ":" | slice: 1 %}
+<h1>{{ the_title }}</h1>
+
+<p class="speaker-photo">
+    {% if site.data.speakers.speakers[page.speaker].image %}
+    <img src="{{ site.data.speakers.speakers[page.speaker].image }}" alt="Profile photo for {{ site.data.speakers.speakers[page.speaker].name }}" />
+    {% endif %}
+    Presented by {{ site.data.speakers.speakers[page.speaker].name }}
+</p>
+
+<h2 style="clear: none;">{{ sub_title }}</h2>
+
+{% if page.teaser %}
+<p>{{ page.teaser }}</p>
+{% endif %}
+
+{{ content }}
+
+{% comment %}
 {% include h-event.html event=page download_link=true paginate=true %}
+{% endcomment %}

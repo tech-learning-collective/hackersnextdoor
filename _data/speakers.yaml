@@ -13,6 +13,8 @@ organizations:
       description: |
         We are anti-(techno)capitalists, solarpunks, and radical technologists. Our ethics place us against “Adtech,” “Fintech,” and Silicon Valley. We believe technology is an intangible earth, with which we can and should have an earthly relationship. It is power that we can harness through holistic methods as individuals and cooperative networks for the empowerment of oneself and of one’s actual communities. Our approach stands in contrast to isolationism, sterility, and authoritarianism by being participatory, flexible, and adaptive.
       website: https://ShiftCTRL.space
+      speakers:
+          - red_clover
 
     - name: Surveillance Technology Oversight Project
       abbr: S.T.O.P.
@@ -35,12 +37,14 @@ organizations:
       description: |
         The Tech Learning Collective is an educational initiative run by radical queer and femme technologists offering unparalleled, low-cost computer classes primarily to marginalized groups and individuals who are politically engaged. Unlike coding bootcamps that focus on moving the highest number of students through rote task-completion for the goal of job placement, Tech Learning Collective teachers facilitate foundational skill building through Socratic discussion and kinetic, experience-based training. For more information and to enroll, visit [TechLearningCollective.com](https://techlearningcollective.com/).
       website: https://TechLearningCollective.com
+      speakers:
+          - techlearningcollective
 
 speakers:
     albertfoxcahn:
         name: Albert Fox Cahn, Esq.
         bio: |
-            Albert Fox Cahn is S.T.O.P.’s founder and executive director. As a lawyer, technologist, writer, and interfaith activist, Mr. Cahn began S.T.O.P. in the belief that emerging surveillance technologies pose an unprecedented threat to civil rights and the promise of a free society.
+            Albert Fox Cahn is S.T.O.P.'s founder and executive director, a fellow at the Engelberg Center on Innovation Law & Policy at N.Y.U. School of Law, and a columnist for Gotham Gazette. As a lawyer, technologist, writer, and interfaith activist, Mr. Cahn began S.T.O.P. in the belief that emerging surveillance technologies pose an unprecedented threat to civil rights and the promise of a free society.
 
             Mr. Cahn is a frequent commentator on civil rights, privacy, and technology matters and a contributor to numerous publications, including the New York Times, Slate, NBC Think, Newsweek, and the N,Y. Daily News. He has been quoted hundreds of times by leading national and international media outlets, and he has lectured at numerous universities, including Harvard Law School, New York University School of Law, Columbia University, and Dartmouth College.
 
@@ -49,11 +53,27 @@ speakers:
             In addition to his work at S.T.O.P., Mr. Cahn serves on the Immigrant Leaders Council of the New York Immigration Coalition. He is a member of the New York City Bar Association and the New York County Lawyers’ Association. Mr. Cahn received his J.D., cum laude, from Harvard Law School (where he was an editor of the Harvard Law & Policy Review), and his B.A. in Politics and Philosophy from Brandeis University.
         image: https://images.squarespace-cdn.com/content/v1/5c1bfc7eee175995a4ceb638/1551879667607-U5862LNXDDVSTI5W2L2P/ke17ZwdGBToddI8pDm48kO4BBCY1546PJ-qsvJktNVhZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEQ3Hvk2AfVOfKY0qvQqXnDS4CpCqDfb0dh44SO-lE1L4BaWi_xRK_ZQFJlfc0WoWs/headshot.jpg
         presentations:
-            - "Surveillance and the City: New York's Spy State"
+            - surveillance-and-the-city-new-yorks-spy-state
 
     anarchotechnyc:
         name: Anonymous Members
         bio: |
-            The Anarcho-Tech NYC Collective presents itself as a nameless collective. While individuals members contribute where and when they are able, we do not sign our name to these actions when unnecessary.
+            The Anarcho-Tech NYC Collective presents itself as a nameless collective. While individual members contribute where and when they are able, we do not sign our name to these actions when it is unnecessary to do so.
         presentations:
-            - "Gone Phishing: Recognize Online Entrapment and Other Scams by Learning How to Launch Your Own Phishing Attack Website"
+            - gone-phishing-recognize-online-entrapment-and-other-scams-by-learning-how-to-launch-your-own-phishing-attack-website
+            - machines-in-the-middle-performing-and-detecting-an-arp-cache-poisoning-attack
+
+    red_clover:
+        name: red_clover
+        bio: |
+            red_clover is a queer radical technologist and anarcho-autonomist whose primary interest in digital technologies lay in how they may be leveraged for communal autonomy and revolutionary momentum.
+        presentations:
+            - network-the-revolution-building-alternative-internets
+
+    techlearningcollective:
+        name: TLC Instructors
+        bio: |
+            Tech Learning Collective is an apprenticeship-based technology school aiming to train politically self-motivated individuals in the art of hypermedia, Information Technology, and radical political praxis.
+        presentations:
+            - tor-what-is-it-good-for-absolutely-everything
+            - signal-and-surveillance-how-to-exercise-digital-civil-liberties-in-a-surveillance-state

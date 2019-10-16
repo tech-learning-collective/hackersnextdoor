@@ -37,7 +37,8 @@ i18n: speakers
 {{ speaker.name }} will be presenting:
 
 {% for presentation in speaker.presentations %}
-* {{ presentation }}
+{% assign p = site.events | where: "slug", presentation | first %}
+* [{{ p.title }}]({{ p.url }} "View session details.")
 {% endfor %}{% comment %}End Presentation Loop{% endcomment %}
 {% endfor %}{% comment %}End Speaker Loop{% endcomment %}
 {% endif %}

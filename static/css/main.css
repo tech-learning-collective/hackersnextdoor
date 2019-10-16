@@ -68,7 +68,7 @@ body {
     padding: 0 20px;
     font: 24px/1.25em "Hack Regular";
     color: var(--main-color);
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
     background: #000 fixed url("../images/bg.computer-fade.600x626.png") center 100px no-repeat;
 }
@@ -120,6 +120,7 @@ ul {
     font: 124pt/94pt "Couture Bold";
     letter-spacing: -2px;
     mix-blend-mode: difference;
+    word-break: break-word;
 }
 #MainContent h1:first-of-type span {
     display: block;
