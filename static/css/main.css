@@ -2,7 +2,7 @@
  * @group Variables.
  */
 :root {
-    --main-color: black;
+    --main-color: #FFF;
     --accent-color: red;
 }
 
@@ -11,6 +11,36 @@
  *
  * Put @font-face declarations here.
  */
+
+@font-face {
+    font-family: "Hack Regular";
+    src: url("../fonts/hack/Hack-Regular.ttf");
+}
+
+@font-face {
+    font-family: "MonoSpatial";
+    src: url("../fonts/MonoSpatial.ttf");
+}
+
+@font-face {
+    font-family: "Couture Bold";
+    src: url("../fonts/couture/couture-bld.otf");
+}
+
+.toolbar {
+    text-align: center;
+}
+a.button {
+    display: inline-block;
+    border-radius: 5px;
+    padding: 10px;
+    background: #FFF;
+    color: #000;
+    text-decoration: none;
+}
+a.button:hover {
+    text-decoration: underline;
+}
 
 /**
  * @group Reset.
@@ -27,8 +57,65 @@ figure {
 }
 
 body {
-    background: #fff;
+    padding: 0 20px;
+    background: #000;
+    font: 24px "Hack Regular";
     color: var(--main-color);
+    max-width: 1200px;
+    margin: 0 auto;
+    background: #000 fixed url("../images/bg.computer-fade.600x626.png") center 100px no-repeat;
+}
+
+#Masthead h1 {
+    margin: 0;
+}
+#Masthead img {
+    display: none;
+}
+
+#MainNavigation ul {
+    margin: 0;
+    padding: 50px 0 0 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+#MainNavigation li:first-child {
+    flex-grow: 1;
+    padding-left: 0;
+}
+#MainNavigation li {
+    padding: 0 0 0 1em;
+    font-family: MonoSpatial;
+}
+#MainNavigation a {
+    color: #d6d8ff;
+    text-decoration: none;
+}
+
+#MainContent {
+    font-size: 18px;
+    padding-top: 50px;
+}
+
+#MainContent h1:first-of-type {
+    margin: 50px 0;
+    font: 124pt/94pt "Couture Bold";
+    letter-spacing: -2px;
+    mix-blend-mode: difference;
+}
+#MainContent h1:first-of-type span {
+    display: block;
+}
+
+#MainFooter {
+    margin: 5rem 0 2rem;
+    font-size: 12px;
+    text-align: center;
+}
+#MainFooter .u-photo {
+    display: none;
 }
 
 /**
@@ -37,4 +124,11 @@ body {
  * Put small-screen styles here.
  */
 @media screen and (max-width: 500px) {
+    nav {
+        font-size: 16px;
+    }
+    #MainContent h1:first-of-type {
+        font-size: 48pt;
+        line-height: 37pt;
+    }
 }

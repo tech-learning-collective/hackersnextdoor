@@ -4,14 +4,14 @@
 
 # Contact information in English for the United States region.
 en_US:
-    street_address: 123 Main Street
+    street_address: 20 Jay Street, Suites 317 and 1010
     extended_street_address:
-    locality: Anytown
-    region: CA
-    postal_code: 98765
+    locality: Brooklyn
+    region: NY
+    postal_code: 11201
 
-    telephone: +1-555-123-4567
-    email: janedoe@example.com
+    #telephone: +1-555-123-4567
+    email: techlearningcollective@riseup.net
 
 # Contact information for Spanish speakers.
 es:

@@ -30,14 +30,20 @@ main:
 
     # List of links for the `en_US` language.
     - url: /
-      text: Home
-    - url: /about/
-      text: About
-      title_text: Learn more about us!
+      text: "Hackers Next Door: An InfoSec Conference"
+      title_text: Homepage
+   #- url: /about/
+   #  text: About
+    - url: /participants/
+      text: Participants
+    - url: /location/
+      text: Location
+    - url: /schedule/
+      text: Schedule
+    - url: /policies/
+      text: Policies
     - url: /contact/
       text: Contact
-    - url: /blog/
-      text: Blog
 
   # Spanish language.
   es:
@@ -50,5 +56,3 @@ main:
       title_text: ¡Aprenda más acerca de nosotros!
     - url: /es/contactenos/
       text: Contáctenos
-    - url: /es/blog/
-      text: Blog

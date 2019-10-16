@@ -10,18 +10,18 @@
 # Set a title and description in other languages using the `site_title`
 # and `site_description` keys in the appropriate `_data/strings/` data
 # file for the desired language.
-title: Example Site
+title: Hackers Next Door
 description: >-
-    Site description.
+    An InfoSec conference presented by the Tech Learning Collective in New York City.
 timezone: America/New_York # Use the TZ database: https://en.wikipedia.org/wiki/TZID
-type: Thing                # Use a sensible value from Schema.org.
+type: EventSeries          # Use a sensible value from Schema.org.
 
 # Jekyll SEO Tag metadata.
 # See https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 author: exampleauthor
 lang: &lang >- # Default language, YAML anchor is used elsewhere.
     en_US
-logo: /static/images/main-logo.png
+logo: /static/images/logo.hackers-next-door.540x540.png
 facebook:
     publisher: FacebookPageID
 social:
@@ -72,7 +72,7 @@ defaults:
 # iCalendar settings.
 iCalendar:
     defaults:
-        location: 123 Some Place
+        location: 20 Jay Street, Suites 317 and 1010
         status: CONFIRMED
         image: event-placeholder-image.jpg
 
