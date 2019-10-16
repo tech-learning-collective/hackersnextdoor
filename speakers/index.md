@@ -17,11 +17,31 @@ We are anti-(techno)capitalists, solarpunks, and radical technologists. Our ethi
 
 * Website: [ShiftCTRL.space](https://shiftctrl.space/)
 
-## Surveillance Technology Oversight Project
+## Surveillance Technology Oversight Project (S.T.O.P.)
 
 S.T.O.P. fights to end discriminatory surveillance. Our team challenges both individual misconduct and broader systemic failures. We craft policies that balance new technologies and age-old rights. And we educate impacted communities on how they can protect their rights.
 
+S.T.O.P. litigates and advocates for privacy, fighting excessive local and state-level surveillance. Our work highlights the discriminatory impact of surveillance on Muslim Americans, immigrants, and communities of color.
+
+S.T.O.P. fights to ensure that technological advancements don’t come at the expense of age-old rights. We hope to transform New York City and State into models for the rest of the United States of how to harness novel technologies without adversely impacting marginalized communities. S.T.O.P. also believes that directly-impacted communities are best equipped to lead this fight, and that their voices should be at the forefront for this and any movement. 
+
+S.T.O.P. is a proud member of the Electronic Frontier Alliance, which is  committed to the proposition that intellectual freedom is indispensable to a democratic society.
+
 * Website: [StopSpying.org](https://www.stopspying.org/)
+
+### Speakers from S.T.O.P
+
+#### Albert Fox Cahn, Esq.
+
+![Albert Fox Cahn headshot](https://images.squarespace-cdn.com/content/v1/5c1bfc7eee175995a4ceb638/1551879667607-U5862LNXDDVSTI5W2L2P/ke17ZwdGBToddI8pDm48kO4BBCY1546PJ-qsvJktNVhZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEQ3Hvk2AfVOfKY0qvQqXnDS4CpCqDfb0dh44SO-lE1L4BaWi_xRK_ZQFJlfc0WoWs/headshot.jpg){:style="float: left; border-radius: 50%; width: 25%; margin: 0 2em 0 0;"}
+
+Albert Fox Cahn is S.T.O.P.’s founder and executive director. As a lawyer, technologist, writer, and interfaith activist, Mr. Cahn began S.T.O.P. in the belief that emerging surveillance technologies pose an unprecedented threat to civil rights and the promise of a free society.
+
+Mr. Cahn is a frequent commentator on civil rights, privacy, and technology matters and a contributor to numerous publications, including the New York Times, Slate, NBC Think, Newsweek, and the N,Y. Daily News. He has been quoted hundreds of times by leading national and international media outlets, and he has lectured at numerous universities, including Harvard Law School, New York University School of Law, Columbia University, and Dartmouth College.
+
+Mr. Cahn previously served as legal director for a statewide civil rights organization, overseeing its direct legal services, impact litigation, and government affairs during the first two years of the Trump Presidency. Prior to that, he worked as an associate at Weil, Gotshal & Manges LLP, where he advised Fortune 50 companies on technology policy, antitrust law, and consumer privacy. 
+
+In addition to his work at S.T.O.P.,  Mr. Cahn serves on the Immigrant Leaders Council of the New York Immigration Coalition. He is a member of the New York City Bar Association and the New York County Lawyers’ Association. Mr. Cahn received his J.D., cum laude, from Harvard Law School (where he was an editor of the Harvard Law & Policy Review), and his B.A. in Politics and Philosophy from Brandeis University.
 
 ## Tech Learning Collective
 
