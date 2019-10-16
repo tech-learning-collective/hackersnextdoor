@@ -5,46 +5,32 @@ i18n: speakers
 
 # Speakers
 
-## Anarcho-Tech NYC
+{% for org in site.data.speakers.organizations %}
 
-The NYC chapter of the Anarcho-Tech Collective provides technological and digital infrastructure support services to anti-fascist, anti-racist, and anti-capitalist organizations in New York City. These services range from computer training for activists and advocacy groups, to direct assistance with digital components of advocacy efforts and private audits of an ally’s security posture when requested. We are an entirely volunteer-run organization operating without any licensing or legal recognition and a financial budget intentionally as close to zero as possible.
+## {{ org.name }}{% if org.abbr %} ({{ org.abbr }}){% endif %}
 
-* Website: [github.com/AnarchoTechNYC](https://github.com/AnarchoTechNYC/meta/wiki)
+{{ org.description | markdownify }}
 
-## Shift-CTRL Space
+* Website: [{{ org.website | replace: "https://", "" | replace: "http://", "" }}]({{ org.website }} "Visit {{ org.name }}&rsquo;s website.")
 
-We are anti-(techno)capitalists, solarpunks, and radical technologists. Our ethics place us against “Adtech,” “Fintech,” and Silicon Valley. We believe technology is an intangible earth, with which we can and should have an earthly relationship. It is power that we can harness through holistic methods as individuals and cooperative networks for the empowerment of oneself and of one’s actual communities. Our approach stands in contrast to isolationism, sterility, and authoritarianism by being participatory, flexible, and adaptive.
+{% if org.speakers %}
+### Speakers from {{ org.name }}
 
-* Website: [ShiftCTRL.space](https://shiftctrl.space/)
+{% for s in org.speakers %}
+{% assign speaker = site.data.speakers.speakers[s] %}
 
-## Surveillance Technology Oversight Project (S.T.O.P.)
+### {{ speaker.name }}
 
-S.T.O.P. fights to end discriminatory surveillance. Our team challenges both individual misconduct and broader systemic failures. We craft policies that balance new technologies and age-old rights. And we educate impacted communities on how they can protect their rights.
+![Profile photo for {{ speaker.name }}](https://images.squarespace-cdn.com/content/v1/5c1bfc7eee175995a4ceb638/1551879667607-U5862LNXDDVSTI5W2L2P/ke17ZwdGBToddI8pDm48kO4BBCY1546PJ-qsvJktNVhZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEQ3Hvk2AfVOfKY0qvQqXnDS4CpCqDfb0dh44SO-lE1L4BaWi_xRK_ZQFJlfc0WoWs/headshot.jpg){:style="float: left; border-radius: 50%; width: 25%; margin: 0 2em 0 0;"}
 
-S.T.O.P. litigates and advocates for privacy, fighting excessive local and state-level surveillance. Our work highlights the discriminatory impact of surveillance on Muslim Americans, immigrants, and communities of color.
+{{ speaker.bio | markdownify }}
 
-S.T.O.P. fights to ensure that technological advancements don’t come at the expense of age-old rights. We hope to transform New York City and State into models for the rest of the United States of how to harness novel technologies without adversely impacting marginalized communities. S.T.O.P. also believes that directly-impacted communities are best equipped to lead this fight, and that their voices should be at the forefront for this and any movement. 
+Presentations:
 
-S.T.O.P. is a proud member of the Electronic Frontier Alliance, which is  committed to the proposition that intellectual freedom is indispensable to a democratic society.
+{% for presentation in speaker.presentations %}
+* {{ presentation }}
+{% endfor %}{% comment %}End Presentation Loop{% endcomment %}
+{% endfor %}{% comment %}End Speaker Loop{% endcomment %}
+{% endif %}
+{% endfor %}{% comment %}End Organization Loop{% endcomment %}
 
-* Website: [StopSpying.org](https://www.stopspying.org/)
-
-### Speakers from S.T.O.P
-
-#### Albert Fox Cahn, Esq.
-
-![Albert Fox Cahn headshot](https://images.squarespace-cdn.com/content/v1/5c1bfc7eee175995a4ceb638/1551879667607-U5862LNXDDVSTI5W2L2P/ke17ZwdGBToddI8pDm48kO4BBCY1546PJ-qsvJktNVhZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEQ3Hvk2AfVOfKY0qvQqXnDS4CpCqDfb0dh44SO-lE1L4BaWi_xRK_ZQFJlfc0WoWs/headshot.jpg){:style="float: left; border-radius: 50%; width: 25%; margin: 0 2em 0 0;"}
-
-Albert Fox Cahn is S.T.O.P.’s founder and executive director. As a lawyer, technologist, writer, and interfaith activist, Mr. Cahn began S.T.O.P. in the belief that emerging surveillance technologies pose an unprecedented threat to civil rights and the promise of a free society.
-
-Mr. Cahn is a frequent commentator on civil rights, privacy, and technology matters and a contributor to numerous publications, including the New York Times, Slate, NBC Think, Newsweek, and the N,Y. Daily News. He has been quoted hundreds of times by leading national and international media outlets, and he has lectured at numerous universities, including Harvard Law School, New York University School of Law, Columbia University, and Dartmouth College.
-
-Mr. Cahn previously served as legal director for a statewide civil rights organization, overseeing its direct legal services, impact litigation, and government affairs during the first two years of the Trump Presidency. Prior to that, he worked as an associate at Weil, Gotshal & Manges LLP, where he advised Fortune 50 companies on technology policy, antitrust law, and consumer privacy. 
-
-In addition to his work at S.T.O.P.,  Mr. Cahn serves on the Immigrant Leaders Council of the New York Immigration Coalition. He is a member of the New York City Bar Association and the New York County Lawyers’ Association. Mr. Cahn received his J.D., cum laude, from Harvard Law School (where he was an editor of the Harvard Law & Policy Review), and his B.A. in Politics and Philosophy from Brandeis University.
-
-## Tech Learning Collective
-
-The Tech Learning Collective is an educational initiative run by radical queer and femme technologists offering unparalleled, low-cost computer classes primarily to marginalized groups and individuals who are politically engaged. Unlike coding bootcamps that focus on moving the highest number of students through rote task-completion for the goal of job placement, Tech Learning Collective teachers facilitate foundational skill building through Socratic discussion and kinetic, experience-based training. For more information and to enroll, visit [TechLearningCollective.com](https://techlearningcollective.com/).
-
-* Website: [TechLearningCollective.com](https://techlearningcollective.com/)
