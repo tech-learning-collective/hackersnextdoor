@@ -17,6 +17,12 @@ We are anti-(techno)capitalists, solarpunks, and radical technologists. Our ethi
 
 * Website: [ShiftCTRL.space](https://shiftctrl.space/)
 
+## Surveillance Technology Oversight Project
+
+S.T.O.P. fights to end discriminatory surveillance. Our team challenges both individual misconduct and broader systemic failures. We craft policies that balance new technologies and age-old rights. And we educate impacted communities on how they can protect their rights.
+
+* Website: [StopSpying.org](https://www.stopspying.org/)
+
 ## Tech Learning Collective
 
 The Tech Learning Collective is an educational initiative run by radical queer and femme technologists offering unparalleled, low-cost computer classes primarily to marginalized groups and individuals who are politically engaged. Unlike coding bootcamps that focus on moving the highest number of students through rote task-completion for the goal of job placement, Tech Learning Collective teachers facilitate foundational skill building through Socratic discussion and kinetic, experience-based training. For more information and to enroll, visit [TechLearningCollective.com](https://techlearningcollective.com/).
