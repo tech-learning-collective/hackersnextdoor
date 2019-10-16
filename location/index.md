@@ -5,18 +5,13 @@ i18n: location
 
 # Location
 
-Hackers Next Door is grateful to [Triangle Arts Association](https://triangleartsnyc.org/) and [Verso Books](https://versobooks.com/) for hosting this year&rsquo;s conference.
-
-Both hosts are located at:
+Hackers Next Door is grateful to [Triangle Arts Association](https://triangleartsnyc.org/) for hosting this year&rsquo;s conference.
 
 20 Jay Street  
 Brooklyn, NY 11201  
 United States
 
 * Triangle Arts Association is located in Suite 317, on the 3<sup>rd</sup> floor.
-* Verso Books is located in Suite 1010, on the 10<sup>th</sup> floor.
-
-Be certain to check the conference [schedule]({% link schedule/index.md %}) for the location of sessions and workshops that you would like to attend.
 
 ## Map
 

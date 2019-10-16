@@ -18,16 +18,16 @@ type: EventSeries          # Use a sensible value from Schema.org.
 
 # Jekyll SEO Tag metadata.
 # See https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-author: exampleauthor
+author: Hackers Next Door
 lang: &lang >- # Default language, YAML anchor is used elsewhere.
     en_US
 logo: /static/images/logo.hackers-next-door.540x540.png
-facebook:
-    publisher: FacebookPageID
-social:
-    links:
-        - https://www.facebook.com/FacebookPageID
-        - https://www.instagram.com/InstagramHandle
+#facebook:
+#    publisher: FacebookPageID
+#social:
+#    links:
+#        - https://www.facebook.com/FacebookPageID
+#        - https://www.instagram.com/InstagramHandle
 
 # Blog settings.
 paginate: 5    # How many posts per HTML page.
