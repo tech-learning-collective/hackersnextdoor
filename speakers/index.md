@@ -3,11 +3,17 @@ title: Speakers
 i18n: speakers
 ---
 
+{:style="margin-bottom: 50px;"}
 # Speakers
 
 {% for org in site.data.speakers.organizations %}
 
 ## {{ org.name }}{% if org.abbr %} ({{ org.abbr }}){% endif %}
+
+{% if org.image %}
+{:.speaker-photo}
+![Logo for {{ org.name }}]({{ org.image }})
+{% endif %}
 
 {{ org.description | markdownify }}
 
@@ -19,13 +25,16 @@ i18n: speakers
 {% for s in org.speakers %}
 {% assign speaker = site.data.speakers.speakers[s] %}
 
-### {{ speaker.name }}
+#### {{ speaker.name }}
 
-![Profile photo for {{ speaker.name }}](https://images.squarespace-cdn.com/content/v1/5c1bfc7eee175995a4ceb638/1551879667607-U5862LNXDDVSTI5W2L2P/ke17ZwdGBToddI8pDm48kO4BBCY1546PJ-qsvJktNVhZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEQ3Hvk2AfVOfKY0qvQqXnDS4CpCqDfb0dh44SO-lE1L4BaWi_xRK_ZQFJlfc0WoWs/headshot.jpg){:style="float: left; border-radius: 50%; width: 25%; margin: 0 2em 0 0;"}
+{% if speaker.image %}
+{:.speaker-photo}
+![Profile photo for {{ speaker.name }}]({{ speaker.image }})
+{% endif %}
 
 {{ speaker.bio | markdownify }}
 
-Presentations:
+{{ speaker.name }} will be presenting:
 
 {% for presentation in speaker.presentations %}
 * {{ presentation }}

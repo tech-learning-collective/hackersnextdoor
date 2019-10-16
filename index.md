@@ -11,7 +11,7 @@ The [Tech Learning Collective](https://techlearningcollective.com/) presents
     Next Door
 </h1>
 
-<h2 style="font-family: 'Couture Bold'; mix-blend-mode: difference;">11 AM &ndash; 8 PM, December 14 &ndash; 15, 2019</h2>
+<h2 style="font-family: 'Couture Bold'; mix-blend-mode: difference; padding-top: 0;">11 AM &ndash; 8 PM, December 14 &ndash; 15, 2019</h2>
 
 *Hackers Next Door* is an open-to-the-public information security conference featuring invitation-only presentations by the best of the tri-state area&rsquo;s cybersecurity trainers, privacy rights advocacy groups, and their constituencies.
 

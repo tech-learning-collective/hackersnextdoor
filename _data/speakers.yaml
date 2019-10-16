@@ -2,9 +2,12 @@
 ---
 organizations:
     - name: Anarcho-Tech NYC
+      image: /static/images/logo.anarcho-tech-nyc.png
       description: |
         The NYC chapter of the Anarcho-Tech Collective provides technological and digital infrastructure support services to anti-fascist, anti-racist, and anti-capitalist organizations in New York City. These services range from computer training for activists and advocacy groups, to direct assistance with digital components of advocacy efforts and private audits of an ally’s security posture when requested. We are an entirely volunteer-run organization operating without any licensing or legal recognition and a financial budget intentionally as close to zero as possible.
       website: https://github.com/AnarchoTechNYC/meta/wiki
+      speakers:
+          - anarchotechnyc
 
     - name: Shift-CTRL Space
       description: |
@@ -13,6 +16,7 @@ organizations:
 
     - name: Surveillance Technology Oversight Project
       abbr: S.T.O.P.
+      image: /static/images/logo.stop-ny.png
       description: |
           S.T.O.P. fights to end discriminatory surveillance. Our team challenges both individual misconduct and broader systemic failures. We craft policies that balance new technologies and age-old rights. And we educate impacted communities on how they can protect their rights.
 
@@ -27,6 +31,7 @@ organizations:
 
     - name: Tech Learning Collective
       abbr: TLC
+      image: https://techlearningcollective.com/static/images/icon.chip.transparent.png
       description: |
         The Tech Learning Collective is an educational initiative run by radical queer and femme technologists offering unparalleled, low-cost computer classes primarily to marginalized groups and individuals who are politically engaged. Unlike coding bootcamps that focus on moving the highest number of students through rote task-completion for the goal of job placement, Tech Learning Collective teachers facilitate foundational skill building through Socratic discussion and kinetic, experience-based training. For more information and to enroll, visit [TechLearningCollective.com](https://techlearningcollective.com/).
       website: https://TechLearningCollective.com
@@ -45,3 +50,10 @@ speakers:
         image: https://images.squarespace-cdn.com/content/v1/5c1bfc7eee175995a4ceb638/1551879667607-U5862LNXDDVSTI5W2L2P/ke17ZwdGBToddI8pDm48kO4BBCY1546PJ-qsvJktNVhZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEQ3Hvk2AfVOfKY0qvQqXnDS4CpCqDfb0dh44SO-lE1L4BaWi_xRK_ZQFJlfc0WoWs/headshot.jpg
         presentations:
             - "Surveillance and the City: New York's Spy State"
+
+    anarchotechnyc:
+        name: Anonymous Members
+        bio: |
+            The Anarcho-Tech NYC Collective presents itself as a nameless collective. While individuals members contribute where and when they are able, we do not sign our name to these actions when unnecessary.
+        presentations:
+            - "Gone Phishing: Recognize Online Entrapment and Other Scams by Learning How to Launch Your Own Phishing Attack Website"
