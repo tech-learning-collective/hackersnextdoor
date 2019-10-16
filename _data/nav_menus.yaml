@@ -32,18 +32,20 @@ main:
     - url: /
       text: "Hackers Next Door: An InfoSec Conference"
       title_text: Homepage
-   #- url: /about/
-   #  text: About
-    - url: /participants/
-      text: Participants
+    #- url: /about/
+    #  text: About
+    - url: /speakers/
+      text: Speakers
     - url: /location/
       text: Location
     - url: /schedule/
       text: Schedule
+    - url: /tickets/
+      text: Tickets
     - url: /policies/
       text: Policies
-    - url: /contact/
-      text: Contact
+    #- url: /contact/
+    #  text: Contact
 
   # Spanish language.
   es:

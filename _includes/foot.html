@@ -11,5 +11,5 @@
         {% if site.data.contact_info.telephone %}<a href="tel:{{ site.data.contact_info[lang].telephone | replace: "-", "" | replace: "(", "" | replace: ")", "" | replace: ".", "" }}" class="p-tel tel"><span itemprop="telephone">{{ site.data.contact_info[lang].telephone }}</span></a>{% endif %}
         {% if site.data.contact_info.email %}<a href="mailto:{{ site.data.contact_info[lang].email }}" class="u-email email"><span itemprop="email">{{ site.data.contact_info[lang].email }}</span></a>{% endif %}
     </p>
-    <p>(<a href="https://h2vx.com/vcf/get-contact.php?uri={{ page.url | absolute_url | cgi_escape }}">{% include gettext.liquid key="add_our_info_to_address_book" %}</a>)</p>
+    <p>Copyright &copy; {{ site.time | date: "%Y" }} by <a href="https://techlearningcollective.com/">Tech Learning Collective</a></p>
 </footer>

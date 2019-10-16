@@ -3,7 +3,7 @@
  */
 :root {
     --main-color: #FFF;
-    --accent-color: red;
+    --accent-color: greenyellow;
 }
 
 /**
@@ -27,6 +27,13 @@
     src: url("../fonts/couture/couture-bld.otf");
 }
 
+a {
+    color: var(--accent-color);
+}
+a:hover {
+    text-decoration-style: dashed;
+}
+
 .toolbar {
     text-align: center;
 }
@@ -40,6 +47,7 @@ a.button {
 }
 a.button:hover {
     text-decoration: underline;
+    box-shadow: 0 0 50px var(--accent-color);
 }
 
 /**
@@ -58,12 +66,15 @@ figure {
 
 body {
     padding: 0 20px;
-    background: #000;
-    font: 24px "Hack Regular";
+    font: 24px/1.25em "Hack Regular";
     color: var(--main-color);
     max-width: 1200px;
     margin: 0 auto;
     background: #000 fixed url("../images/bg.computer-fade.600x626.png") center 100px no-repeat;
+}
+
+ul {
+    list-style-type: disc;
 }
 
 #Masthead h1 {
@@ -93,20 +104,28 @@ body {
     color: #d6d8ff;
     text-decoration: none;
 }
+#MainNavigation .current a,
+#MainNavigation a:hover {
+    color: var(--accent-color);
+}
 
 #MainContent {
     font-size: 18px;
     padding-top: 50px;
+    background: #000 fixed url("../images/bg.computer-fade.600x626.png") center 100px no-repeat;
 }
 
 #MainContent h1:first-of-type {
-    margin: 50px 0;
+    margin: 50px 0 0 0;
     font: 124pt/94pt "Couture Bold";
     letter-spacing: -2px;
     mix-blend-mode: difference;
 }
 #MainContent h1:first-of-type span {
     display: block;
+}
+#MainContent h2:first-of-type {
+    margin-top: 0;
 }
 
 #MainFooter {

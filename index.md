@@ -3,6 +3,7 @@ title: Home
 i18n: home
 ---
 
+{:style="font-family: 'Couture Bold'"}
 The [Tech Learning Collective](https://techlearningcollective.com/) presents
 
 <h1>
@@ -10,10 +11,10 @@ The [Tech Learning Collective](https://techlearningcollective.com/) presents
     Next Door
 </h1>
 
-The Tech Learning Collective&rsquo;s Hackers Next Door conference is an open-to-the-public, two-day information security conference featuring invitation-only presentations bringing together the best of the Tri-State area&rsquo;s leading cybersecurity trainers, online privacy advocacy groups, and their constituencies for a skill-sharing and educational convergence to meet and learn from one another.
+<h2 style="font-family: 'Couture Bold'; mix-blend-mode: difference;">11 AM &ndash; 8 PM, December 14 &ndash; 15, 2019</h2>
 
-Aiming to strengthen and enhance digital security training and awareness of digital civil liberties issues for all, *Hackers Next Door* gives invited groups a chance to showcase their training methods and educational material to an audience of like-minded and impassioned community organizers, activists, and fellow security and privacy trainers so that we can all learn from one another&rsquo;s experience and perspective.
+*Hackers Next Door* is an open-to-the-public information security conference featuring invitation-only presentations by the best of the tri-state area&rsquo;s cybersecurity trainers, privacy rights advocacy groups, and their constituencies. It is a unique opportunity for anyone interested in how to protect themselves online to participate in a skill-sharing and educational convergence where they can meet one another, compare notes with peers and colleagues, and learn practical techniques from the region&rsquo;s top cybersecurity instructors, legal experts, and experienced activists.
 
-Read more [about the confernece]({% link about/index.md %}), browse the [conference schedule]({% link schedule/index.md %}), and [buy tickets](#buy-tickets) today.
+By enhancing the quality and accessibility of cybersecurity training for everyone, and increasing the public&rsquo;s awareness of digital civil liberties issues, *Hackers Next Door* gives invited speakers a chance to showcase and workshop their educational methods and materials to and with an audience of like-minded and impassioned community organizers, activists, and fellow security and privacy trainers so that we can all learn from one another&rsquo;s experience and perspective.
 
-{% include buy-tickets.md %}
+Browse the [conference schedule]({% link schedule/index.md %}) and [buy tickets]({% link tickets/index.md %}) today.

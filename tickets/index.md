@@ -1,4 +1,9 @@
-## Buy Tickets
+---
+title: Tickets
+i18n: tickets
+---
+
+# Buy Tickets
 
 Space is limited. A ticket is required to attend.
 
