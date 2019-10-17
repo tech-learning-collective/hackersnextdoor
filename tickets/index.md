@@ -9,9 +9,5 @@ Space is limited. A ticket is required to attend.
 
 *No walk-ins* are allowed, and *no door sales* are offered.
 
-Ticket sales are not yet open. Check back soon!
-
-{% comment %}
 {:.toolbar}
-[Buy tickets now](#){:.button}
-{% endcomment %}
+[Buy tickets now](https://www.artful.ly/store/events/19216){:.button}
