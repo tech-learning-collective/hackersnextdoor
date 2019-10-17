@@ -9,6 +9,12 @@ organizations:
       speakers:
           - anarchotechnyc
 
+    - name: CyPurr Collective
+      image: https://avatars2.githubusercontent.com/u/28765698?s=600
+      description: |
+          We&rsquo;re a small cryptoparty and cat-enthusiast collective. We&rsquo;ve held digital security workshops at the New York Public Library, Brooklyn Public Library, Bluestockings, Babycastles, and the Silent Barn over the past two years. We are a member of the Electronic Frontier Alliance.
+      website: https://CyPurr.nyc
+
     - name: Shift-CTRL Space
       description: |
         We are anti-(techno)capitalists, solarpunks, and radical technologists. Our ethics place us against “Adtech,” “Fintech,” and Silicon Valley. We believe technology is an intangible earth, with which we can and should have an earthly relationship. It is power that we can harness through holistic methods as individuals and cooperative networks for the empowerment of oneself and of one’s actual communities. Our approach stands in contrast to isolationism, sterility, and authoritarianism by being participatory, flexible, and adaptive.
