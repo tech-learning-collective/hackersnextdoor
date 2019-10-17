@@ -25,6 +25,7 @@ organizations:
     - name: Surveillance Technology Oversight Project
       abbr: S.T.O.P.
       image: /static/images/logo.stop-ny.png
+      image_shape_outside: polygon(65% 0%, 87% 24%, 87% 65%, 65% 92%)
       description: |
           S.T.O.P. fights to end discriminatory surveillance. Our team challenges both individual misconduct and broader systemic failures. We craft policies that balance new technologies and age-old rights. And we educate impacted communities on how they can protect their rights.
 
@@ -40,6 +41,7 @@ organizations:
     - name: Tech Learning Collective
       abbr: TLC
       image: https://techlearningcollective.com/static/images/icon.chip.transparent.png
+      image_shape_outside: polygon(55% 0%, 100% 42%, 55% 100%)
       description: |
         The Tech Learning Collective is an educational initiative run by radical queer and femme technologists offering unparalleled, low-cost computer classes primarily to marginalized groups and individuals who are politically engaged. Unlike coding bootcamps that focus on moving the highest number of students through rote task-completion for the goal of job placement, Tech Learning Collective teachers facilitate foundational skill building through Socratic discussion and kinetic, experience-based training. For more information and to enroll, visit [TechLearningCollective.com](https://techlearningcollective.com/).
       website: https://TechLearningCollective.com

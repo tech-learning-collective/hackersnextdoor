@@ -11,8 +11,11 @@ i18n: speakers
 ## {{ org.name }}{% if org.abbr %} ({{ org.abbr }}){% endif %}
 
 {% if org.image %}
-{:.speaker-photo}
-![Logo for {{ org.name }}]({{ org.image }})
+<p class="speaker-photo">
+    <img src="{{ org.image }}" alt="Logo for {{ org.name }}"
+        {% if org.image_shape_outside %} style="shape-outside: {{ org.image_shape_outside }};"{% endif %}
+    />
+</p>
 {% endif %}
 
 {{ org.description | markdownify }}
