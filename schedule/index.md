@@ -5,7 +5,7 @@ i18n: schedule
 
 # Schedule
 
-Schedule TBD.
+Schedule TBD. In the mean time, [browse confirmed session topics and their descriptions]({% link speakers/index.md %}).
 
 {% comment %}
 
