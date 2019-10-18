@@ -12,8 +12,11 @@ organizations:
     - name: CyPurr Collective
       image: https://avatars2.githubusercontent.com/u/28765698?s=600
       description: |
-          We&rsquo;re a small cryptoparty and cat-enthusiast collective. We&rsquo;ve held digital security workshops at the New York Public Library, Brooklyn Public Library, Bluestockings, Babycastles, and the Silent Barn over the past two years. We are a member of the Electronic Frontier Alliance.
+          The CyPurr Collective is a group of some tech-minded folks who are very jazzed about cybersecurity, cats, and helping folks out with their digital dilemmas. We offer workshops for activists, journalists, educators, and everyday folks who want to up their encryption game. Check out our site for links to upcoming events, and come by our monthly workshops at The Brooklyn Public Library Central Branch, Bluestockings Bookstore, and BabyCastles. :)
       website: https://CyPurr.nyc
+      speakers:
+          - grey
+
 
     - name: Shift-CTRL Space
       description: |
@@ -70,6 +73,13 @@ speakers:
         presentations:
             - gone-phishing-recognize-online-entrapment-and-other-scams-by-learning-how-to-launch-your-own-phishing-attack-website
             - machines-in-the-middle-performing-and-detecting-an-arp-cache-poisoning-attack
+
+
+    grey:
+        name: Grey
+        bio: ""
+        presentations:
+            - staying-safe-together-threat-modeling-and-holistic-security
 
     red_clover:
         name: red_clover
