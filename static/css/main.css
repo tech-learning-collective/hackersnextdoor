@@ -65,12 +65,24 @@ figure {
 }
 
 body {
-    padding: 0 20px;
+    background: #000;
     font: 24px/1.25em "Hack Regular";
     color: var(--main-color);
-    max-width: 1400px;
+}
+
+body > header,
+body > main,
+body > footer {
     margin: 0 auto;
-    background: #000 fixed url("../images/bg.computer-fade.600x626.png") center 100px no-repeat;
+    padding: 0 20px;
+    max-width: 1400px;
+}
+#background-wrap {
+    z-index: -100;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background: transparent fixed url("../images/bg.computer-fade.600x626.png") center 100px no-repeat;
 }
 
 ul {
