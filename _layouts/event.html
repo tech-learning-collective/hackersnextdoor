@@ -8,11 +8,15 @@ layout: html5
 {% assign sub_title = page.title | split: ":" | slice: 1 %}
 <h1>{{ the_title }}</h1>
 
+{% if page.image %}
+<img src="{{ page.image }}" alt="" style="width: 100%; border-radius: 25px; opacity: .9; mix-blend-mode: difference;" />
+{% endif %}
+
 <p class="speaker-photo">
     {% if site.data.speakers.speakers[page.speaker].image %}
     <img src="{{ site.data.speakers.speakers[page.speaker].image }}" alt="Profile photo for {{ site.data.speakers.speakers[page.speaker].name }}" />
     {% endif %}
-    Presented by {{ site.data.speakers.speakers[page.speaker].name }}
+    Presented by <a href="{% link speakers/index.md %}#{{ site.data.speakers.speakers[page.speaker].name | slugify }}">{{ site.data.speakers.speakers[page.speaker].name }}</a>
 </p>
 
 <h2 style="clear: none;">{{ sub_title }}</h2>

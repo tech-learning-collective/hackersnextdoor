@@ -82,7 +82,7 @@ speakers:
             - staying-safe-together-threat-modeling-and-holistic-security
 
     red_clover:
-        name: red_clover
+        name: red clover
         bio: |
             red_clover is a queer radical technologist and anarcho-autonomist whose primary interest in digital technologies lay in how they may be leveraged for communal autonomy and revolutionary momentum.
         presentations:
@@ -95,3 +95,4 @@ speakers:
         presentations:
             - tor-what-is-it-good-for-absolutely-everything
             - signal-and-surveillance-how-to-exercise-digital-civil-liberties-in-a-surveillance-state
+            - digital-defenses-for-the-people-practical-digital-security

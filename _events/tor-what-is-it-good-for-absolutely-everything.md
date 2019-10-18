@@ -1,5 +1,6 @@
 ---
 title: "Tor: What is it Good For? (Absolutely Everything!)"
+image: https://techlearningcollective.com/static/images/workshop.tor-what-is-it-good-for-absolutely-everything.rectangle.png
 #startDate: 2019-10-14 11:00:00 -0500
 #endDate: 2019-10-14 11:45:00 -0500
 #location: Triangle Arts Association
