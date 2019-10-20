@@ -155,6 +155,13 @@ ul {
     width: 25%;
 }
 
+.session-photo {
+    width: 100%;
+    border-radius: 25px;
+    opacity: .9;
+    mix-blend-mode: difference;
+}
+
 #MainFooter {
     margin: 5rem 0 2rem;
     font-size: 12px;

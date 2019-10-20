@@ -5,6 +5,7 @@ image: https://techlearningcollective.com/static/images/workshop.signal-and-surv
 #endDate: 2019-10-14 11:45:00 -0500
 #location: Triangle Arts Association
 speaker: techlearningcollective
+teaser: This introductory cybersecurity workshop will you show why Signal, a free, secure, private message app is simple enough to schedule drinks with, yet secure enough to use for planning a protest. As dragnet surveillance practices are legalized at alarming speed, there has never been a more important time to flex your digital civil liberties muscle than right now.
 ---
 
 Whether you’re an individual chatting with friends or an organizer planning a political action, all effective coordination depends on safe and reliable communication. Lacking integrity for our communications dooms any effort from the outset, whether mundane or revolutionary. As dragnet surveillance practices are legalized at alarming speed and continue to be fueled by a dramatic expansion of the law enforcement and private defense contractor economies, there has never been a more important time to flex your digital civil liberties muscle than right now.

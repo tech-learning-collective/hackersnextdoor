@@ -4,6 +4,7 @@ title: "Machines in the Middle: Performing and Detecting an ARP Cache Poisoning 
 #endDate: 2019-10-14 11:45:00 -0500
 #location: Triangle Arts Association
 speaker: anarchotechnyc
+teaser: Solidify your understanding of the data-link layer (OSI Layer 2) at this hands-on workshop that will walk you through the process of performing a classic ARP spoofing attack, a fundamental NetSec technique that is still used in many real-life hacking scenarios today.
 ---
 
 Before there was &ldquo;The Internet,&rdquo; there was <a href="https://simple.wikipedia.org/wiki/Ethernet">Ethernet</a>. First developed in the mid 1970&rsquo;s, Ethernet takes its name from the erroneous belief first postulated in the late 19<sup>th</sup> century that an omnipresent yet invisible material known as &ldquo;ether&rdquo; permeated everything and everyone. Today, in a kind of self-fulfilling prophecy, ethernet is the near-ubiquitous link-layer networking technology that underpins almost every modern telecommunications network.

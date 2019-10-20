@@ -36,6 +36,8 @@ main:
     #  text: About
     - url: /speakers/
       text: Speakers
+    - url: /sessions/
+      text: Sessions
     - url: /location/
       text: Location
     - url: /schedule/
