@@ -13,6 +13,8 @@ United States
 
 * Triangle Arts Association is located in Suite 317, on the 3<sup>rd</sup> floor.
 
+The conference location is wheelchair accessible, with an elevator in the building. Restrooms are located on the same floor as the conference suites.
+
 ## Map
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-73.98772180080415%2C40.703352633353354%2C-73.98566722869874%2C40.704830878684845&amp;layer=mapnik&amp;marker=40.704091760120285%2C-73.98669451475143" style="border: 1px solid black"></iframe>
