@@ -44,6 +44,8 @@ main:
       text: Schedule
     - url: /tickets/
       text: Tickets
+    - url: /sponsors/
+      text: Sponsors
     - url: /policies/
       text: Policies
     #- url: /contact/

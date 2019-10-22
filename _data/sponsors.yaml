@@ -1,0 +1,14 @@
+# Sponsor data for Hackers Next Door.
+---
+- name: Triangle Arts Association
+  image: /static/images/logo.triangle-arts-nyc.png
+  image_style: 'border-radius: 0; shape-outside: url("/static/images/logo.triangle-arts-nyc.png"); shape-margin: 30px;'
+  description: |
+      Triangle is an artist-founded non-profit art institution in New York City, working locally and globally since 1982. Triangle&rsquo;s programs emphasize research, dialogue and experimentation through residencies and public programs.
+
+      Triangle is also the founding institution of the Triangle Network. Sharing a deep commitment to supporting artists through emphasis on dialogue and the exchange of ideas, this international network is made up of over 30 sister arts organizations in over 20 countries around the globe including Jordan, India, China, Iran, Ghana, the United Kingdom, the United States, Botswana, Sri Lanka, France, Pakistan, Uganda, Palestine, Lebanon, Brazil, South Africa, Bolivia, and Kenya.
+
+      Since Spring of 2019, Triangle Arts has sponsored the Tech Learning Collective in residency, during which time Tech Learning Collective has been able to offer unparalleled free, by-donation, and low-cost trainings to community groups and otherwise underserved individuals on topics including information and digital security, network engineering, system administration, Web design and development, site reliability engineering, and community-owned telecommunications infrastructures.
+
+      Triangle is happy to continue supporting Tech Learning Collective events through sponsorship of the Hackers Next Door conference.
+  website: https://TriangleArtsNYC.org
