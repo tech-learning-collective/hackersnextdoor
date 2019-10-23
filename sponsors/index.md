@@ -24,3 +24,7 @@ i18n: sponsors
 
 {% endfor %}
 
+{:style="text-align: center;"}
+# Become a sponsor
+
+Hackers Next Door offers affordable sponsorship opportunities to organizations who want to reach an active and politically engaged audience of tri-state area activists, organizers, and community groups. Sponsorships are offered exclusively via our parent organization, the [Tech Learning Collective](https://techlearningcollective.com/). Please [click here to request a sponsor information package](mailto:techlearningcollective@riseup.net?subject={{ "[Hackers Next Door 2019] Sponsorship inquiry" | uri_escape }}) and speak with a Tech Learning Collective conference organizer today.
