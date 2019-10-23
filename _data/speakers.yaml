@@ -1,6 +1,20 @@
 # Speaker data for Hackers Next Door.
 ---
 organizations:
+    - name: Afrotectopia
+      image: https://images.squarespace-cdn.com/content/v1/59c973f7c027d8b4829c2ab1/1552408477258-0F1JZY5YVZKNT15VCYKJ/ke17ZwdGBToddI8pDm48kGDpvalPb1SqHoCn1hwN0Y57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmQPoRzxSr1hzN-vPBHt7YyLLXgctAyUJRqJUUGWVDK_ZzIgvsybGcZEPqUYiXY8im/sticker1.jpg?format=1000w
+      description: |
+        AFROTECTOPIA began as a new media arts, culture and technology festival designed to recognize the contributions of Black artists, designers, technologists and activists; as well as build community amongst creatives currently working at the intersection of art, design, technology, activism and Blackness.
+
+        The festival was created by Ari Melenciano during her last year of graduate school at New York University’s Interactive Telecommunications Program (ITP).
+
+        Afrotectopia began with a vision and a zero-dollar budget. After immediate support from NYU (especially ITP and other departments) and quickly going viral, the festival created a wave in the New York City tech scene&mdash;selling out shortly after being announced, building a vibrant community of Black innovators (300 attendees, 1,700 engaged online), investing over $10,000 in Black/People of Color businesses,  and creating a $5,000 scholarship for an incoming Black ITP student.
+
+        The festival was experienced through a variety of different panels, performances, skill-sharing workshops, film screenings, lightning presentations, think tanks and more.
+      website: https://AFROTECTOPIA.org
+      speakers:
+          - arimelenciano
+
     - name: Anarcho-Tech NYC
       image: /static/images/logo.anarcho-tech-nyc.png
       description: |
@@ -71,6 +85,14 @@ speakers:
         image: https://images.squarespace-cdn.com/content/v1/5c1bfc7eee175995a4ceb638/1551879667607-U5862LNXDDVSTI5W2L2P/ke17ZwdGBToddI8pDm48kO4BBCY1546PJ-qsvJktNVhZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEQ3Hvk2AfVOfKY0qvQqXnDS4CpCqDfb0dh44SO-lE1L4BaWi_xRK_ZQFJlfc0WoWs/headshot.jpg
         presentations:
             - surveillance-and-the-city-new-yorks-spy-state
+
+    arimelenciano:
+        name: Ari Melenciano
+        bio: |
+            Ari Melenciano is a Brooklyn-based artist, creative technologist and researcher, passionate about how various forms of design impact the human experience. She is the founder of Afrotectopia, a social institution fostering interdisciplinary innovation for Black empowerment. We are most traditionally experienced through our New Media Arts, Culture and Technology Festival. Afrotectopia cultivates and celebrates a community of socially minded innovators working at the intersections of art, design, technology, Black culture and activism.
+        image: /static/images/speaker.photo.ari-melenciano.jpg
+        presentations:
+            - anti-racist-technoculture-for-racial-equity
 
     anarchotechnyc:
         name: Anonymous Members
