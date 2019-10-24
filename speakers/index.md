@@ -13,7 +13,7 @@ i18n: speakers
 {% if org.image %}
 <p class="speaker-photo">
     <img src="{{ org.image }}" alt="Logo for {{ org.name }}"
-        {% if org.image_shape_outside %} style="shape-outside: {{ org.image_shape_outside }};"{% endif %}
+        {% if org.image_style %} style="{{ org.image_style }}"{% endif %}
     />
 </p>
 {% endif %}

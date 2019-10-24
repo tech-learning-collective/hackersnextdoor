@@ -42,7 +42,7 @@ organizations:
     - name: Surveillance Technology Oversight Project
       abbr: S.T.O.P.
       image: /static/images/logo.stop-ny.png
-      image_shape_outside: polygon(65% 0%, 87% 24%, 87% 65%, 65% 92%)
+      image_style: 'shape-outside: polygon(65% 0%, 87% 24%, 87% 65%, 65% 92%)'
       description: |
           S.T.O.P. fights to end discriminatory surveillance. Our team challenges both individual misconduct and broader systemic failures. We craft policies that balance new technologies and age-old rights. And we educate impacted communities on how they can protect their rights.
 
@@ -58,7 +58,7 @@ organizations:
     - name: Tech Learning Collective
       abbr: TLC
       image: https://techlearningcollective.com/static/images/icon.chip.transparent.png
-      image_shape_outside: polygon(55% 0%, 100% 42%, 55% 100%)
+      image_style: 'shape-outside: polygon(55% 0%, 100% 42%, 55% 100%)'
       description: |
           [Tech Learning Collective](https://techlearningcollective.com/) is an apprenticeship-based technology school that trains politically self-motivated individuals in the arts of hypermedia, Information Technology, and radical political practice.
 
@@ -70,6 +70,25 @@ organizations:
       website: https://TechLearningCollective.com
       speakers:
           - techlearningcollective
+
+    - name: Tor Project
+      image: https://www.torproject.org/static/images/tor-logo@2x.png
+      image_style: 'border-radius: 0; shape-outside: none;'
+      description: |
+          The Tor Project, Inc, became a 501(c)3 nonprofit in 2006, but the idea of "onion routing" began in the mid 1990s.
+
+          Just like Tor users, the developers, researchers, and founders who've made Tor possible are a diverse group of people. But all of the people who have been involved in Tor are united by a common belief: internet users should have private access to an uncensored web.
+
+          The need for tools safeguarding against mass surveillance became a mainstream concern thanks to the Snowden revelations in 2013. Not only was Tor instrumental to Snowden&rsquo;s whistleblowing, but content of the documents also upheld assurances that, at that time, Tor could not be cracked.
+
+          People&rsquo;s awareness of tracking, surveillance, and censorship may have increased, but so has the prevalence of these hindrances to internet freedom. Today, the network has thousands of relays run by volunteers and millions of users worldwide. And it is this diversity that keeps Tor users safe.
+
+          We, at the Tor Project, fight every day for everyone to have private access to an uncensored internet, and Tor has become the world's strongest tool for privacy and freedom online.
+
+          But Tor is more than just software. It is a labor of love produced by an international community of people devoted to human rights. The Tor Project is deeply committed to transparency and the safety of its users.
+      website: https://TorProject.org
+      speakers:
+          - isabelabagueros
 
 speakers:
     albertfoxcahn:
@@ -108,6 +127,13 @@ speakers:
         bio: ""
         presentations:
             - staying-safe-together-threat-modeling-and-holistic-security
+
+    isabelabagueros:
+        name: Isabela Bagueros
+        bio: "Executive Director, Tor Project"
+        presentations:
+            - TBD
+
 
     red_clover:
         name: red clover
