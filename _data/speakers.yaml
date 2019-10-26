@@ -23,6 +23,17 @@ organizations:
       speakers:
           - anarchotechnyc
 
+    - name: Black Movement-Law Project
+      description: |
+          After working in Ferguson, Baltimore and Cleveland, lawyers and legal activists have come together to create the Black Movement-Law Project. BMLP provides legal support to local communities throughout the country as they demonstrate against police brutality and systemic racism. We believe in a community centered approach&mdash;providing holistic legal and technical service with an understanding that mass defense movement legal experience is often missing from the local equation.
+
+          BMLP facilitates a rapid response system supporting activists during mass demonstrations and arrests. We work with local community groups to educate impacted communities in understanding their rights and responding to increased militarized police presence in their communities.
+
+          Our work includes legal observation and traditional know your rights trainings, as well as emergency infrastructure such as jail support mechanisms designed to meet the needs of the specific community. Further we have a network of national human and civil rights lawyers that assist local communities in urgent legal needs and long-term impact litigation.
+      website: https://BMLP.org
+      speakers:
+          - abihassen
+
     - name: CyPurr Collective
       image: https://avatars2.githubusercontent.com/u/28765698?s=600
       description: |
@@ -91,6 +102,14 @@ organizations:
           - isabelabagueros
 
 speakers:
+    abihassen:
+        name: Abi Hassen
+        bio: |
+            [Abi Hassen](https://abihassen.com/) is an attorney, technologist, and co-founder of the Black Movement-Law Project, a legal support rapid response group that grew out of the uprisings in Ferguson and Baltimore. He is currently a partner at O’Neill and Hassen LLP, a law practice focused on indigent criminal defense. Formerly, he was the Mass Defense Coordinator at the National Lawyers Guild. Abi has also worked as a political campaign manager and strategist, union organizer, and community organizer. Mr. Hassen leads trainings, speaks, and writes on topics of race, technology, and the law. His podcast, Against the Law is available at [AgainstTheLaw.info](https://againstthelaw.info/).
+        image: /static/images/speaker.photo.abi-hassen.jpg
+        presentations:
+            - from-pinkertons-to-palantir-history-and-political-economy-of-police-surveillance
+
     albertfoxcahn:
         name: Albert Fox Cahn, Esq.
         bio: |
@@ -121,7 +140,6 @@ speakers:
             - gone-phishing-recognize-online-entrapment-and-other-scams-by-learning-how-to-launch-your-own-phishing-attack-website
             - machines-in-the-middle-performing-and-detecting-an-arp-cache-poisoning-attack
 
-
     grey:
         name: Grey
         bio: ""
@@ -133,7 +151,6 @@ speakers:
         bio: "Executive Director, Tor Project"
         presentations:
             - TBD
-
 
     red_clover:
         name: red clover
