@@ -42,6 +42,18 @@ organizations:
       speakers:
           - grey
 
+    - name: Inrupt, Inc.
+      image: https://inrupt.com/themes/custom/solid/logo.svg
+      image_style: "shape-outside: none; border-radius: 0;"
+      description: |
+          Inrupt is a proud member of the [World Wide Web Consortium](https://www.w3.org/) and believes it&rsquo;s time your data worked for you as an individual, group or organization&mdash;and not solely for the profit of others. With [Solid](https://solid.inrupt.com/) you have unprecedented control of your data. Create, manage and secure your own personal online data store (POD). You decide who accesses it. We call this &ldquo;personal empowerment through data&rdquo; and it&rsquo;s one of inrupt&rsquo;s founding principles.
+
+          What if your apps all talked to each other?
+
+          That&rsquo;s what it&rsquo;ll feel like using apps built on Solid. Instead of relying on many discrete apps to run your life and business, use inrupt to find new customized, enriching and intelligent apps. Enhance your personal and business productivity in ways that today’s web simply cannot handle.
+      website: https://Inrupt.com
+      speakers:
+          - daviottenheimer
 
     - name: Shift-CTRL Space
       image: /static/images/logo.shift-ctrl-space.png
@@ -140,6 +152,14 @@ speakers:
         presentations:
             - gone-phishing-recognize-online-entrapment-and-other-scams-by-learning-how-to-launch-your-own-phishing-attack-website
             - machines-in-the-middle-performing-and-detecting-an-arp-cache-poisoning-attack
+
+    daviottenheimer:
+        name: Davi Ottenheimer
+        image: https://inrupt.com/sites/default/files/2019-09/inrupt_headashot_davi%2001.jpg
+        bio: |
+            Davi in the last two years led development of client-side field-level encryption in a non-relational database. He brings 25+ years&rsquo; experience as a head of security and trust managing global security engineering, operations and assessments, and over a decade of leading incident response and digital forensics. Davi has helped serve customer data protection needs across many industries including data storage and management, software, investment, banking, international retail, as well as higher education, healthcare and aerospace.
+        presentations:
+            - whose-ais-are-on-your-data-how-web-de-centralization-may-be-the-civil-rights-battle-of-our-time
 
     grey:
         name: Grey
