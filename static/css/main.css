@@ -185,3 +185,13 @@ ul {
         line-height: 34pt;
     }
 }
+
+/**
+ * @group One-off overrides by request.
+ */
+@media screen and (min-width: 501px) {
+    #MainContent h1:first-of-type#tracing-neighborhoods-in-the-sky {
+        font-size: 112pt;
+        line-height: 84pt;
+    }
+}

@@ -105,8 +105,7 @@ organizations:
           - techlearningcollective
 
     - name: Tor Project
-      image: https://www.torproject.org/static/images/tor-logo@2x.png
-      image_style: 'border-radius: 0; shape-outside: none;'
+      image: /static/images/logo.tor.jpg
       description: |
           The Tor Project, Inc, became a 501(c)3 nonprofit in 2006, but the idea of "onion routing" began in the mid 1990s.
 
@@ -192,9 +191,11 @@ speakers:
 
     isabelabagueros:
         name: Isabela Bagueros
-        bio: "Executive Director, Tor Project"
+        image: /static/images/speaker.photo.isabela-bagueros.jpg
+        bio: |
+            Isabela Bagueros is Executive Director of the Tor Project. She has been part of the free software community and an activist for democratization of information since the late 90s. She joined the Tor Project as Project Manager in 2015 after working as Product Manager for International and Growth at Twitter for four years. Prior to Twitter, she worked with the Brazilian Federal Government on digital inclusion and other free software projects from the Ministry of Communications as well as the Presidential Palace of Brazil. Isabela became ED in 2018.
         presentations:
-            - TBD
+            - taking-back-the-internet-with-tor
 
     red_clover:
         name: red clover

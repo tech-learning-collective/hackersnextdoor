@@ -6,7 +6,7 @@ layout: html5
 
 {% assign the_title = page.title | split: ":" | first %}
 {% assign sub_title = page.title | split: ":" | slice: 1 %}
-<h1>{{ the_title }}</h1>
+<h1 id="{{ the_title | slugify }}">{{ the_title }}</h1>
 
 {% if page.image %}
 <img src="{{ page.image }}" alt="" class="session-photo" />
