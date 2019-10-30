@@ -24,12 +24,9 @@ organizations:
           - anarchotechnyc
 
     - name: Black Movement-Law Project
+      abbr: BMLP
       description: |
-          After working in Ferguson, Baltimore and Cleveland, lawyers and legal activists have come together to create the Black Movement-Law Project. BMLP provides legal support to local communities throughout the country as they demonstrate against police brutality and systemic racism. We believe in a community centered approach&mdash;providing holistic legal and technical service with an understanding that mass defense movement legal experience is often missing from the local equation.
-
-          BMLP facilitates a rapid response system supporting activists during mass demonstrations and arrests. We work with local community groups to educate impacted communities in understanding their rights and responding to increased militarized police presence in their communities.
-
-          Our work includes legal observation and traditional know your rights trainings, as well as emergency infrastructure such as jail support mechanisms designed to meet the needs of the specific community. Further we have a network of national human and civil rights lawyers that assist local communities in urgent legal needs and long-term impact litigation.
+          After working in Ferguson, Baltimore and Cleveland, lawyers and legal activists came together to create the Black Movement-Law Project (BMLP). From 2015 through 2017 BMLP provided legal support to local communities throughout the country as they demonstrate against police brutality and systemic racism. We believe in a community centered approach&mdash;providing holistic legal and technical training with an understanding that mass defense movement legal experience is often missing from the local equation. BMLP&rsquo;s work included legal observation and traditional know your rights trainings, as well as emergency infrastructure such as jail support mechanisms designed to meet the needs of the specific community.
       website: https://BMLP.org
       speakers:
           - abihassen
