@@ -166,6 +166,7 @@ ul {
     margin: 5rem 0 2rem;
     font-size: 12px;
     text-align: center;
+    clear: both;
 }
 #MainFooter .u-photo {
     display: none;
