@@ -11,7 +11,7 @@ i18n: Sessions
     <li>
         <a href="{{ event.url }}">
             <h2>{{ event.title }}</h2>
-            <img src="{{ event.image }}" alt="" class="session-photo" />
+            {% if event.image %}<img src="{{ event.image }}" alt="" class="session-photo" />{% endif %}
         </a>
         {% for s in event.speakers %}
         {% assign speaker = site.data.speakers.speakers[s] %}
