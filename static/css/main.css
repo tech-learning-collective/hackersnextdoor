@@ -75,7 +75,7 @@ body > main,
 body > footer {
     margin: 0 auto;
     padding: 0 20px;
-    max-width: 1400px;
+    max-width: 1800px;
 }
 #background-wrap {
     z-index: -100;
@@ -184,15 +184,5 @@ ul {
     #MainContent h1:first-of-type {
         font-size: 44pt;
         line-height: 34pt;
-    }
-}
-
-/**
- * @group One-off overrides by request.
- */
-@media screen and (min-width: 501px) {
-    #MainContent h1:first-of-type#tracing-neighborhoods-in-the-sky {
-        font-size: 112pt;
-        line-height: 84pt;
     }
 }
