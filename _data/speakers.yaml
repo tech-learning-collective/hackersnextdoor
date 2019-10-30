@@ -47,7 +47,7 @@ organizations:
       image: /static/images/logo.calyx-institute.png
       image_style: "border-radius: 0; shape-outside: url('/static/images/logo.calyx-institute.png'); shape-margin: 20px;"
       description: |
-          The Calyx Institute&rsquo;s mission is to educate the public about privacy in digital communications and to develop tools that anyone can use to build &ldquo;privacy by design&rsquo; into their internet access. By developing encryption and anonymity tools that can help users maintain their privacy, we hope to make online security easier and more accessible for everyone online.
+          The Calyx Institute&rsquo;s mission is to educate the public about privacy in digital communications and to develop tools that anyone can use to build &ldquo;privacy by design&rdquo; into their internet access. By developing encryption and anonymity tools that can help users maintain their privacy, we hope to make online security easier and more accessible for everyone online.
 
           We are a non-profit education and research organization devoted to studying, testing and developing and implementing privacy technology and tools to promote free speech, free expression, civic engagement and privacy rights on the internet and in the mobile communications industry.
 
