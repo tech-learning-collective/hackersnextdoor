@@ -3,7 +3,8 @@ title: "Staying Safe Together: Threat Modeling and Holistic Security"
 #startDate: 2019-10-14 11:00:00 -0500
 #endDate: 2019-10-14 11:45:00 -0500
 #location: Triangle Arts Association
-speaker: grey
+speakers:
+    - grey
 teaser: Threats are everywhere all the time! But we still need to be able to function in our lives and in our organizing. This workshop will give an introduction to threat modeling, exploring tools we can use to make safe space for discussion of threats in our work, and building stronger more resilient communities and groups.
 ---
 

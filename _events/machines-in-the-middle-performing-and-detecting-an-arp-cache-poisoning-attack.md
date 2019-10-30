@@ -3,7 +3,8 @@ title: "Machines in the Middle: Performing and Detecting an ARP Cache Poisoning 
 #startDate: 2019-10-14 11:00:00 -0500
 #endDate: 2019-10-14 11:45:00 -0500
 #location: Triangle Arts Association
-speaker: anarchotechnyc
+speakers:
+    - anarchotechnyc
 teaser: Solidify your understanding of the data-link layer (OSI Layer 2) at this hands-on workshop that will walk you through the process of performing a classic ARP spoofing attack, a fundamental NetSec technique that is still used in many real-life hacking scenarios today.
 ---
 

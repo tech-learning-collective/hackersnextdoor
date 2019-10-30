@@ -3,7 +3,8 @@ title: "Whose AIs Are On Your Data?: How Web De-Centralization May Be the Civil 
 #startDate: 2019-10-14 11:00:00 -0500
 #endDate: 2019-10-14 11:45:00 -0500
 #location: Triangle Arts Association
-speaker: daviottenheimer
+speakers:
+    - daviottenheimer
 teaser: Inrupt co-founder Sir Tim Berners-Lee&rsquo;s new initiative, Solid, promises to give control of data back to the users of the Web. Learn how they aim to fulfil this optimistic vision from the project&rsquo;s Chief Security Architect.
 ---
 

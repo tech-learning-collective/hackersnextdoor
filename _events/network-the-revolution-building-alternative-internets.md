@@ -4,7 +4,8 @@ title: "Network the Revolution: Building Alternative Internets"
 #endDate: 2019-10-14 11:45:00 -0500
 #location: Triangle Arts Association
 image: /static/images/session.photo.network-the-revolution-building-alternative-internets.png
-speaker: red_clover
+speakers:
+    - red_clover
 teaser: Because hardware has never before been both so powerful and so affordable, a new era of community-run digital infrastructure is dawning. Among these possibilities for new modes of de-/re-programming Capitalist modes of operation within digital spaces is the exciting landscape of the neighborhood or citywide mesh *intranet.* red_clover from ShiftCTRL Space will briefly explain the material circumstances, so as to explore new avenues of resilient organizing using autonomously run networks and services.
 ---
 

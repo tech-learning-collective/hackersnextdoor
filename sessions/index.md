@@ -13,12 +13,15 @@ i18n: Sessions
             <h2>{{ event.title }}</h2>
             <img src="{{ event.image }}" alt="" class="session-photo" />
         </a>
+        {% for s in event.speakers %}
+        {% assign speaker = site.data.speakers.speakers[s] %}
         <p class="speaker-photo">
-        {% if site.data.speakers.speakers[event.speaker].image %}
-        <img src="{{ site.data.speakers.speakers[event.speaker].image }}" alt="Profile photo for {{ site.data.speakers.speakers[event.speaker].name }}" />
+        {% if speaker.image %}
+        <img src="{{ speaker.image }}" alt="Profile photo for {{ speaker.name }}" />
         {% endif %}
-        Presented by <a href="{% link speakers/index.md %}#{{ site.data.speakers.speakers[event.speaker].name | slugify }}">{{ site.data.speakers.speakers[event.speaker].name }}</a>
+        {% if forloop.first %}Presented by {% elsif forloop.last %}and {% else %}, {% endif %}<a href="{% link speakers/index.md %}#{{ speaker.name | slugify }}">{{ speaker.name }}</a>
         </p>
+        {% endfor %}
         
         {{ event.teaser | markdownify }}
 

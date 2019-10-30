@@ -31,6 +31,18 @@ organizations:
       speakers:
           - abihassen
 
+    - name: Brooklyn Pirate Radio Sound Map
+      abbr: BPRSM
+      image: https://images.squarespace-cdn.com/content/5a5e7828d55b41763cb439f3/1517627733455-JU7WM25ECREWPRHOBXEA/SQSP+small+logo.png?format=1500w&content-type=image%2Fpng
+      description: |
+          When the sun goes down in Brooklyn, pirate radio stations power up, beaming renegade, culture-laden signals into Caribbean, Orthodox Jewish and Latino neighborhoods. The Brooklyn Pirate Radio Sound Map archives the sounds of an ad hoc underground community radio service that persists deep into the digital age amidst a rising tide of anti-pirate legislation and enforcement.
+
+          The Brooklyn Pirate Radio Sound Map (BPRSM) traces the lingering connections between unlicensed radio broadcasting and Brooklyn&rsquo;s local neighborhood culture in the digital age. This ongoing archival audio project explores the conditions that allow stations to operate openly and illegally, the needs of their audiences and their effect on licensed stations. Audio samples are drawn from recordings made from 2014 to the present.
+      website: https://PirateRadioMap.com
+      speakers:
+          - davidgoren
+          - djcintronics
+
     - name: CyPurr Collective
       image: https://avatars2.githubusercontent.com/u/28765698?s=600
       description: |
@@ -150,6 +162,13 @@ speakers:
             - gone-phishing-recognize-online-entrapment-and-other-scams-by-learning-how-to-launch-your-own-phishing-attack-website
             - machines-in-the-middle-performing-and-detecting-an-arp-cache-poisoning-attack
 
+    davidgoren:
+        name: David Goren
+        bio: |
+            [David Goren](https://davidgoren.net/), creator of the [Brooklyn Pirate Radio Sound Map](/speakers/#brooklyn-pirate-radio-sound-map-bprsm) has been researching the New York City&rsquo;s pirate radio scene for the past five years, talking with station staff and listeners on both sides of the legal divide. In this talk, David explores the cultural and political forces driving underground radio in NYC since the late sixties via live tuning, archival recordings and excerpts from [his recent BBC radio documentary](https://www.bbc.co.uk/programmes/p076bp3y).
+        presentations:
+            - tracing-neighborhoods-in-the-sky-new-york-citys-pirates-of-the-airwaves
+
     daviottenheimer:
         name: Davi Ottenheimer
         image: https://inrupt.com/sites/default/files/2019-09/inrupt_headashot_davi%2001.jpg
@@ -157,6 +176,13 @@ speakers:
             Davi in the last two years led development of client-side field-level encryption in a non-relational database. He brings 25+ years&rsquo; experience as a head of security and trust managing global security engineering, operations and assessments, and over a decade of leading incident response and digital forensics. Davi has helped serve customer data protection needs across many industries including data storage and management, software, investment, banking, international retail, as well as higher education, healthcare and aerospace.
         presentations:
             - whose-ais-are-on-your-data-how-web-de-centralization-may-be-the-civil-rights-battle-of-our-time
+
+    djcintronics:
+        name: DJ Cintronics
+        bio: |
+            Dave Cintron, aka DJ Cintronics, founded Brooklyn&rsquo;s legendary pirate radio station WBAD, which delivered uncensored underground hip hop to a devoted audience in the mid-90&rsquo;s. After WBAD went off the air in 1998, he went on to DJ for Sirius Satellite Radio. Dave also produces and remixes his own music and DJs private parties/clubs. He has held a full time position with UPS for the past 28 years. In 2016, Dave created an internet radio station called Local 804 radio, dedicated to informing local union members about company news. For more information, visit [djcintronics.com](https://djcintronics.com/) and check out [his podcast](https://itunes.apple.com/us/podcast/dj-cintronics-podcast/id499535495?mt=2d).
+        presentations:
+            - tracing-neighborhoods-in-the-sky-new-york-citys-pirates-of-the-airwaves
 
     grey:
         name: Grey

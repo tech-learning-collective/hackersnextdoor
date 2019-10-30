@@ -12,12 +12,15 @@ layout: html5
 <img src="{{ page.image }}" alt="" class="session-photo" />
 {% endif %}
 
+{% for s in page.speakers %}
+{% assign speaker = site.data.speakers.speakers[s] %}
 <p class="speaker-photo">
-    {% if site.data.speakers.speakers[page.speaker].image %}
-    <img src="{{ site.data.speakers.speakers[page.speaker].image }}" alt="Profile photo for {{ site.data.speakers.speakers[page.speaker].name }}" />
+    {% if speaker.image %}
+    <img src="{{ speaker.image }}" alt="Profile photo for {{ speaker.name }}" />
     {% endif %}
-    Presented by <a href="{% link speakers/index.md %}#{{ site.data.speakers.speakers[page.speaker].name | slugify }}">{{ site.data.speakers.speakers[page.speaker].name }}</a>
+    {% if forloop.first %}Presented by {% elsif forloop.last %}and {% else %}, {% endif %}<a href="{% link speakers/index.md %}#{{ speaker.name | slugify }}">{{ speaker.name }}</a>
 </p>
+{% endfor %}
 
 <h2 style="clear: none;">{{ sub_title }}</h2>
 
