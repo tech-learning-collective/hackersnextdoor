@@ -138,10 +138,11 @@ ul {
 }
 #MainContent h2:first-of-type {
     margin-top: 0;
+    padding-top: 0;
 }
 
 #MainContent h2 {
-    font-family: "Couture Bold";
+    font: 34pt "Couture Bold";
     padding-top: 3em;
     clear: both;
 }
@@ -184,5 +185,8 @@ ul {
     #MainContent h1:first-of-type {
         font-size: 44pt;
         line-height: 34pt;
+    }
+    #MainContent h2 {
+        font-size: 24pt;
     }
 }

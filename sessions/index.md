@@ -10,7 +10,7 @@ i18n: Sessions
 {% for event in events %}
     <li>
         <a href="{{ event.url }}">
-            <h2>{{ event.title }}</h2>
+            <h2 style="padding-top: 3em;">{{ event.title }}</h2>
             {% if event.image %}<img src="{{ event.image }}" alt="" class="session-photo" />{% endif %}
         </a>
         {% for s in event.speakers %}
