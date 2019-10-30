@@ -43,6 +43,19 @@ organizations:
           - davidgoren
           - djcintronics
 
+    - name: Calyx Institute
+      image: /static/images/logo.calyx-institute.png
+      image_style: "border-radius: 0; shape-outside: url('/static/images/logo.calyx-institute.png'); shape-margin: 20px;"
+      description: |
+          The Calyx Institute&rsquo;s mission is to educate the public about privacy in digital communications and to develop tools that anyone can use to build &ldquo;privacy by design&rsquo; into their internet access. By developing encryption and anonymity tools that can help users maintain their privacy, we hope to make online security easier and more accessible for everyone online.
+
+          We are a non-profit education and research organization devoted to studying, testing and developing and implementing privacy technology and tools to promote free speech, free expression, civic engagement and privacy rights on the internet and in the mobile communications industry.
+
+          We believe that everyone deserves privacy and security online, regardless of their technological know-how. Many tools exist for encrypting online communications and keeping your data private. However, many people don't know that they need these tools or how to access them. The Calyx Institute will continue to develop these tools and educate the public on the best ways to use them, with the goal of making cybersecurity, privacy and freedom of expression accessible to everyone. Through research and development, legal advocacy and defense, and by distributing information and open source software as widely as possible for the benefit of the general public, in both democratic and repressive contexts, we hope to build a more free and accessible internet. 
+      website: https://CalyxInstitute.org
+      speakers:
+          - nickmerrill
+
     - name: CyPurr Collective
       image: https://avatars2.githubusercontent.com/u/28765698?s=600
       description: |
@@ -196,6 +209,13 @@ speakers:
             Isabela Bagueros is Executive Director of the Tor Project. She has been part of the free software community and an activist for democratization of information since the late 90s. She joined the Tor Project as Project Manager in 2015 after working as Product Manager for International and Growth at Twitter for four years. Prior to Twitter, she worked with the Brazilian Federal Government on digital inclusion and other free software projects from the Ministry of Communications as well as the Presidential Palace of Brazil. Isabela became ED in 2018.
         presentations:
             - taking-back-the-internet-with-tor
+
+    nickmerrill:
+        name: Nick Merrill
+        bio: |
+            Nick Merrill is the Executive Director of The Calyx Institute. The Calyx Institute&rsquo;s mission is to educate the public about privacy in digital communications and to develop tools that anyone can use to build &ldquo;privacy by design&rdquo; into their internet access. By developing encryption and anonymity tools that can help users maintain their privacy, we hope to make online security easier and more accessible for everyone online.  
+        presentations:
+            - legal-hackers-workshop-protecting-privilege-and-encryption-for-lawyers
 
     red_clover:
         name: red clover
