@@ -31,6 +31,16 @@ organizations:
       speakers:
           - abihassen
 
+    - name: Brooklyn Legal Services Tenants Rights Coalition
+      abbr: BLS LSNYC
+      description: |
+          Brooklyn Legal Services (BLS), Legal Services NYC&rsquo;s largest program, stops evictions, preserves affordable housing and homeownership, helps people access essential public benefits, identifies and redresses discrimination in housing and mortgage lending, empowers victims of domestic violence, supports Brooklyn residents who are LGBTQ or HIV+ in gaining access to the services they need, promotes the rights of immigrants, veterans and the disabled, protects borrowers from abusive and illegal collection tactics, and ensures proper care and housing for elderly Brooklynites.
+
+          BLS has deep roots in communities throughout Brooklyn. We work closely with community-based organizations, conduct community-based outreach and legal clinics, and partner with our pro bono colleagues to maximize our services and address the root causes of poverty.
+      website: https://www.LegalServicesNYC.org
+      speakers:
+          - atlanticplazatenants
+
     - name: Brooklyn Pirate Radio Sound Map
       abbr: BPRSM
       image: https://images.squarespace-cdn.com/content/5a5e7828d55b41763cb439f3/1517627733455-JU7WM25ECREWPRHOBXEA/SQSP+small+logo.png?format=1500w&content-type=image%2Fpng
@@ -173,6 +183,13 @@ speakers:
         presentations:
             - gone-phishing-recognize-online-entrapment-and-other-scams-by-learning-how-to-launch-your-own-phishing-attack-website
             - machines-in-the-middle-performing-and-detecting-an-arp-cache-poisoning-attack
+
+    atlanticplazatenants:
+        name: Atlantic Plaza Towers tenants
+        bio: |
+            Tenants of the Atlantic Plaza Towers complex in Brooklyn have been at the forefront of advocating against planned installations of facial recognition technology in their homes since Fall of 2018. Their work has spurred the introduction of legislation in support of tenants&rsquo;s rights in New York, the KEYS Act.
+        presentations:
+            - TBD
 
     davidgoren:
         name: David Goren
