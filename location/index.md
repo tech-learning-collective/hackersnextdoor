@@ -5,7 +5,7 @@ i18n: location
 
 # Location
 
-Hackers Next Door is grateful to [Triangle Arts Association](https://triangleartsnyc.org/) for hosting this year&rsquo;s conference.
+Hackers Next Door is grateful to [Triangle Arts Association]({% link sponsors/index.md %}#triangle-arts-association) for hosting this year&rsquo;s conference.
 
 20 Jay Street  
 Brooklyn, NY 11201  
