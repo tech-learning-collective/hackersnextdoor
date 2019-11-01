@@ -83,6 +83,20 @@ organizations:
       speakers:
           - grey
 
+    - name: Freedom of the Press Foundation
+      abbr: FPF
+      image: /static/images/logo.freedom-of-the-press-foundation.svg
+      image_style: "border-radius: 0; filter: invert(100%); shape-outside: none;"
+      description: |
+          Freedom of the Press Foundation (FPF) is a 501(c)3 non-profit organization that protects, defends, and empowers public-interest journalism in the 21st century.
+
+          The organization works to preserve and strengthen First and Fourth Amendment rights guaranteed to the press through a variety of avenues, including the development of encryption tools, documentation of attacks on the press, training newsrooms on digital security practices, and advocating for the public&rsquo;s right to know.
+
+          Freedom of the Press Foundation is built on the recognition that this kind of transparency journalism — from publishing the Pentagon Papers and exposing Watergate, to uncovering the NSA&rsquo;s warrantless wiretapping program and CIA secret prisons &mdash; doesn&rsquo;t just happen. It requires dogged work by journalists, and often, the courage of whistleblowers and others who work to ensure that the public actually learns what it has a right to know.
+      website: https://Freedom.press
+      speakers:
+          - oliviamartin
+
     - name: Inrupt, Inc.
       image: https://inrupt.com/themes/custom/solid/logo.svg
       image_style: "shape-outside: none; border-radius: 0;"
@@ -168,7 +182,7 @@ speakers:
         bio: |
             Albert Fox Cahn is S.T.O.P.'s founder and executive director, a fellow at the Engelberg Center on Innovation Law & Policy at N.Y.U. School of Law, and a columnist for Gotham Gazette. As a lawyer, technologist, writer, and interfaith activist, Mr. Cahn began S.T.O.P. in the belief that emerging surveillance technologies pose an unprecedented threat to civil rights and the promise of a free society.
 
-            Mr. Cahn is a frequent commentator on civil rights, privacy, and technology matters and a contributor to numerous publications, including the New York Times, Slate, NBC Think, Newsweek, and the N,Y. Daily News. He has been quoted hundreds of times by leading national and international media outlets, and he has lectured at numerous universities, including Harvard Law School, New York University School of Law, Columbia University, and Dartmouth College.
+            Mr. Cahn is a frequent commentator on civil rights, privacy, and technology matters and a contributor to numerous publications, including the New York Times, Slate, NBC Think, Newsweek, and the N.Y. Daily News. He has been quoted hundreds of times by leading national and international media outlets, and he has lectured at numerous universities, including Harvard Law School, New York University School of Law, Columbia University, and Dartmouth College.
 
             Mr. Cahn previously served as legal director for a statewide civil rights organization, overseeing its direct legal services, impact litigation, and government affairs during the first two years of the Trump Presidency. Prior to that, he worked as an associate at Weil, Gotshal & Manges LLP, where he advised Fortune 50 companies on technology policy, antitrust law, and consumer privacy.
 
@@ -253,6 +267,14 @@ speakers:
             Nick Merrill is the Executive Director of The Calyx Institute. The Calyx Institute&rsquo;s mission is to educate the public about privacy in digital communications and to develop tools that anyone can use to build &ldquo;privacy by design&rdquo; into their internet access. By developing encryption and anonymity tools that can help users maintain their privacy, we hope to make online security easier and more accessible for everyone online.  
         presentations:
             - legal-hackers-workshop-protecting-privilege-and-encryption-for-lawyers
+
+    oliviamartin:
+        name: Olivia Martin
+        image: https://freedom.press/media/images/DSC05047.2e16d0ba.fill-600x600.jpg
+        bio: |
+            Olivia Martin is a Digital Security Trainer at Freedom of the Press Foundation. A graduate of NYU&rsquo;s Gallatin School of Individualized Study, her professional work focuses on researching and delivering digital security trainings to journalists, activists, and human rights defenders. She has spent years in newsrooms as a designer and editor with new media and student publications, and uses this experience to aid in assessing the evolving needs of journalists in today&rsquo;s media landscape.
+        presentations:
+            - TBD
 
     red_clover:
         name: red clover

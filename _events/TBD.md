@@ -2,6 +2,7 @@
 title: "TBD"
 speakers:
     - atlanticplazatenants
-teaser: This session description has yet to be determined.
+    - oliviamartin
+teaser: The session descriptions for these speakers have yet to be determined.
 ---
 
