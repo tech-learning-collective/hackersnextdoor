@@ -48,8 +48,8 @@ main:
       text: Sponsors
     - url: /policies/
       text: Policies
-    #- url: /contact/
-    #  text: Contact
+    - url: /press/
+      text: Press
 
   # Spanish language.
   es:
