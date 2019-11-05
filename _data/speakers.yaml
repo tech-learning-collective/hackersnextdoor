@@ -107,6 +107,15 @@ organizations:
       speakers:
           - daviottenheimer
 
+    - name: No New Jails NYC
+      image: /static/images/logo.no-new-jails-nyc.jpg
+      image_style: "border-radius: 0; shape-outside: none;"
+      description: |
+          No New Jails NYC is a multiracial, intergenerational, abolitionist network of residents, activists and community members fighting for the immediate and permanent closure of Rikers Island and against Mayor de Blasio&rsquo;s multigenerational jail expansion plan. After initially coming together to agitate and organize against the land use proposal&mdash;recently approved by the New York City Council&mdash;to rezone four sites in New York&rsquo;s boroughs for the construction of the tallest skyscraper jails in the world, in a plan that also includes the expansion of hospital jail wings and the construction of one or two new nursery jails to lock up babies together with their mothers, the work of No New Jails NYC has expanded to include mutual aid and solidarity particularly with incarcerated comrades and NYCHA residents, interventions against private companies and foundations that support the city government&rsquo;s attempt to cement of a future of incarceration, the development of a detailed 55 page plan calling on New Yorkers to mobilize towards abolition, and far more.
+      website: https://NoNewJails.NYC
+      speakers:
+          - nabilhassein
+
     - name: Shift-CTRL Space
       image: /static/images/logo.shift-ctrl-space.png
       description: |
@@ -276,6 +285,14 @@ speakers:
             Mona Patel is an advocate with the Tenant Rights Coalition of Brooklyn Legal Services at Legal Services NYC, which is at the forefront of the fight to prevent evictions, preserve affordable housing, combat harassment, and ensure that New York City tenants&rsquo; homes are safe and in good repair.
         presentations:
             - is-it-facial-or-is-it-racial-the-threat-of-face-recognition-technology-in-nyc-housing
+
+    nabilhassein:
+        name: Nabil Hassein
+        image: /static/images/speaker.photo.nabil-hassein.png
+        bio: |
+            Nabil Hassein is a technologist, organizer and educator who has been involved with No New Jails NYC since its inception in 2018, and previously participated in other (unpaid) grassroots abolitionist efforts such as the Campaign to Shut Down Rikers in 2015 and 2016. Professionally, Nabil has worked as a public high school math teacher, a software developer, a freelance technologist and educator, and is now a PhD student in NYU&rsquo;s Department of Media, Culture and Communication.
+        presentations:
+            - no-new-jails-overview-of-abolitionist-work-and-its-roots-in-older-struggles
 
     nickmerrill:
         name: Nick Merrill
