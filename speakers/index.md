@@ -20,7 +20,9 @@ i18n: speakers
 
 {{ org.description | markdownify }}
 
+{% if org.website %}
 * Website: [{{ org.website | replace: "https://", "" | replace: "http://", "" }}]({{ org.website }} "Visit {{ org.name }}&rsquo;s website.")
+{% endif %}
 
 {% if org.speakers %}
 ### Speakers from {{ org.name }}

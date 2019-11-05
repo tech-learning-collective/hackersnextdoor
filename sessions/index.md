@@ -19,7 +19,7 @@ i18n: Sessions
         {% if speaker.image %}
         <img src="{{ speaker.image }}" alt="Profile photo for {{ speaker.name }}" />
         {% endif %}
-        {% if forloop.first %}Presented by {% elsif forloop.last %}and {% else %}, {% endif %}<a href="{% link speakers/index.md %}#{{ speaker.name | slugify }}">{{ speaker.name }}</a>
+        {% if forloop.first %}Presented by {% else %}and {% endif %}<a href="{% link speakers/index.md %}#{{ speaker.name | slugify }}">{{ speaker.name }}</a>
         </p>
         {% endfor %}
         

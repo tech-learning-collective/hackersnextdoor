@@ -23,6 +23,13 @@ organizations:
       speakers:
           - anarchotechnyc
 
+    - name: Atlantic Plaza Towers Tenants Association
+      description: |
+          The tenants of Atlantic Plaza Towers Tenants Association reside in one of two 22-story buildings that make up the towering complex at 216 Rockaway Avenue and 249 Thomas S. Boyland Avenue in Brooklyn, New York. The tenant population at Atlantic Plaza Towers consists of approximately 90% or more people of color, more than 80% women, and a large number of elders and minors. It is inhabited predominantly by multigenerational families who have lived there for decades&mdash;some residents have been there since the buildings were constructed over fifty years ago. Today, Atlantic Plaza Towers sits in the middle of the rapidly gentrifying neighborhood of Brownsville.
+      speakers:
+          - tranaemoran
+          - tasliymfrancis
+
     - name: Black Movement-Law Project
       abbr: BMLP
       description: |
@@ -30,16 +37,6 @@ organizations:
       website: https://BMLP.org
       speakers:
           - abihassen
-
-    - name: Brooklyn Legal Services Tenants Rights Coalition
-      abbr: BLS LSNYC
-      description: |
-          Brooklyn Legal Services (BLS), Legal Services NYC&rsquo;s largest program, stops evictions, preserves affordable housing and homeownership, helps people access essential public benefits, identifies and redresses discrimination in housing and mortgage lending, empowers victims of domestic violence, supports Brooklyn residents who are LGBTQ or HIV+ in gaining access to the services they need, promotes the rights of immigrants, veterans and the disabled, protects borrowers from abusive and illegal collection tactics, and ensures proper care and housing for elderly Brooklynites.
-
-          BLS has deep roots in communities throughout Brooklyn. We work closely with community-based organizations, conduct community-based outreach and legal clinics, and partner with our pro bono colleagues to maximize our services and address the root causes of poverty.
-      website: https://www.LegalServicesNYC.org
-      speakers:
-          - atlanticplazatenants
 
     - name: Brooklyn Pirate Radio Sound Map
       abbr: BPRSM
@@ -149,6 +146,18 @@ organizations:
       website: https://TechLearningCollective.com
       speakers:
           - techlearningcollective
+
+    - name: Tenants Rights Coalition of Brooklyn Legal Services at Legal Services NYC
+      abbr: TRC BLS LSNYC
+      description: |
+          The Tenant Rights Coalition of Brooklyn Legal Services at Legal Services NYC is at the forefront of the fight to prevent evictions, preserve affordable housing, combat harassment, and ensure that New York City tenants&rsquo; homes are safe and in good repair.
+
+          Brooklyn Legal Services (BLS), Legal Services NYC&rsquo;s largest program, stops evictions, preserves affordable housing and homeownership, helps people access essential public benefits, identifies and redresses discrimination in housing and mortgage lending, empowers victims of domestic violence, supports Brooklyn residents who are LGBTQ or HIV+ in gaining access to the services they need, promotes the rights of immigrants, veterans and the disabled, protects borrowers from abusive and illegal collection tactics, and ensures proper care and housing for elderly Brooklynites.
+
+          BLS has deep roots in communities throughout Brooklyn. We work closely with community-based organizations, conduct community-based outreach and legal clinics, and partner with our pro bono colleagues to maximize our services and address the root causes of poverty.
+      website: https://www.LegalServicesNYC.org
+      speakers:
+          - monapatel
 
     - name: Tor Project
       image: /static/images/logo.tor.jpg
@@ -261,10 +270,17 @@ speakers:
         presentations:
             - utilizing-participatory-educational-methods-in-digital-security-trainings
 
+    monapatel:
+        name: Mona Patel
+        bio: |
+            Mona Patel is an advocate with the Tenant Rights Coalition of Brooklyn Legal Services at Legal Services NYC, which is at the forefront of the fight to prevent evictions, preserve affordable housing, combat harassment, and ensure that New York City tenants&rsquo; homes are safe and in good repair.
+        presentations:
+            - is-it-facial-or-is-it-racial-the-threat-of-face-recognition-technology-in-nyc-housing
+
     nickmerrill:
         name: Nick Merrill
         bio: |
-            Nick Merrill is the Executive Director of The Calyx Institute. The Calyx Institute&rsquo;s mission is to educate the public about privacy in digital communications and to develop tools that anyone can use to build &ldquo;privacy by design&rdquo; into their internet access. By developing encryption and anonymity tools that can help users maintain their privacy, we hope to make online security easier and more accessible for everyone online.  
+            Nick Merrill is the Executive Director of The Calyx Institute. The Calyx Institute&rsquo;s mission is to educate the public about privacy in digital communications and to develop tools that anyone can use to build &ldquo;privacy by design&rdquo; into their internet access. By developing encryption and anonymity tools that can help users maintain their privacy, we hope to make online security easier and more accessible for everyone online.
         presentations:
             - legal-hackers-workshop-protecting-privilege-and-encryption-for-lawyers
 
@@ -283,6 +299,11 @@ speakers:
         presentations:
             - network-the-revolution-building-alternative-internets
 
+    tasliymfrancis:
+        name: Tasliym Francis
+        presentations:
+            - is-it-facial-or-is-it-racial-the-threat-of-face-recognition-technology-in-nyc-housing
+
     techlearningcollective:
         name: TLC Instructors
         bio: |
@@ -291,3 +312,8 @@ speakers:
             - tor-what-is-it-good-for-absolutely-everything
             - signal-and-surveillance-how-to-exercise-digital-civil-liberties-in-a-surveillance-state
             - digital-defenses-for-the-people-practical-digital-security
+
+    tranaemoran:
+        name: Tranae Moran
+        presentations:
+            - is-it-facial-or-is-it-racial-the-threat-of-face-recognition-technology-in-nyc-housing
