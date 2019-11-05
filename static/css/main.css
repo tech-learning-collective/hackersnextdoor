@@ -173,6 +173,19 @@ ul {
     display: none;
 }
 
+.sponsors-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.sponsors-list li {
+    list-style-type: none;
+    flex-grow: 1;
+    text-align: center;
+}
+.sponsors-list img {
+    max-height: 250px;
+}
+
 /**
  * @group Mobile styles.
  *
