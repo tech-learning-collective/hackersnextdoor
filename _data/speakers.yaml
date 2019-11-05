@@ -127,7 +127,7 @@ organizations:
     - name: Surveillance Technology Oversight Project
       abbr: S.T.O.P.
       image: /static/images/logo.stop-ny.png
-      image_style: 'shape-outside: polygon(65% 0%, 87% 24%, 87% 65%, 65% 92%)'
+      image_style: "border-radius: 0; shape-outside: url('/static/images/logo.stop-ny.png'); shape-margin: 20px;"
       description: |
           S.T.O.P. fights to end discriminatory surveillance. Our team challenges both individual misconduct and broader systemic failures. We craft policies that balance new technologies and age-old rights. And we educate impacted communities on how they can protect their rights.
 
