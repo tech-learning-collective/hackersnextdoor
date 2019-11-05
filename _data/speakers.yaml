@@ -305,9 +305,9 @@ speakers:
         name: Olivia Martin
         image: https://freedom.press/media/images/DSC05047.2e16d0ba.fill-600x600.jpg
         bio: |
-            Olivia Martin is a Digital Security Trainer at Freedom of the Press Foundation. A graduate of NYU&rsquo;s Gallatin School of Individualized Study, her professional work focuses on researching and delivering digital security trainings to journalists, activists, and human rights defenders. She has spent years in newsrooms as a designer and editor with new media and student publications, and uses this experience to aid in assessing the evolving needs of journalists in today&rsquo;s media landscape.
+            Olivia Martin is a Digital Security Trainer at Freedom of the Press Foundation. Olivia&rsquo;s professional work focuses on researching and workshopping countermeasures to digital threats faced by journalists, activists, and media makers. At FPF, she works with a team of trainers to prodive direct support to journalists through newsroom trainings, individual consultations, and technical writing.
         presentations:
-            - TBD
+            - mobile-security-checklist-for-movement-makers
 
     red_clover:
         name: red clover
