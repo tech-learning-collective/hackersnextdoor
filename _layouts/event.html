@@ -25,7 +25,7 @@ layout: html5
 <h2 style="clear: none;">{{ sub_title }}</h2>
 
 {% if page.teaser %}
-<p>{{ page.teaser }}</p>
+<p>{{ page.teaser | markdownify }}</p>
 {% endif %}
 
 {{ content }}
