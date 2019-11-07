@@ -1,8 +1,7 @@
 ---
 title: "Tracing Neighborhoods in the Sky: New York City&rsquo;s pirates of the airwaves"
-#startDate: 2019-10-14 11:00:00 -0500
-#endDate: 2019-10-14 11:45:00 -0500
-#location: Triangle Arts Association
+startDate: 2019-12-14 13:00:00 -0500
+endDate: 2019-12-14 14:00:00 -0500
 speakers:
     - davidgoren
     - djcintronics

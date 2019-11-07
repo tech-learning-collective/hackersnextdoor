@@ -1,8 +1,7 @@
 ---
 title: "Surveillance and the City: New York&rsquo;s Spy State"
-#startDate: 2019-10-14 11:00:00 -0500
-#endDate: 2019-10-14 11:45:00 -0500
-#location: Triangle Arts Association
+startDate: 2019-12-14 14:15:00 -0500
+endDate: 2019-12-14 15:15:00 -0500
 speakers:
     - albertfoxcahn
 teaser: Wondering if the new year will look like 1984, join the Surveillance Technology Oversight Project Executive Director Albert Fox Cahn for a briefing on the fight to reform NYPD surveillance and protect privacy.

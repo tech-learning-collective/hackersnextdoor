@@ -1,8 +1,7 @@
 ---
 title: "Taking Back the Internet with Tor"
-#startDate: 2019-10-14 11:00:00 -0500
-#endDate: 2019-10-14 11:45:00 -0500
-#location: Triangle Arts Association
+startDate: 2019-12-14 17:00:00 -0500
+endDate: 2019-12-14 18:00:00 -0500
 speakers:
     - isabelabagueros
 teaser: Tracking, surveillance, and censorship are widespread online, but Tor tools, including Tor Browser and onion services, empower you to take back the internet.

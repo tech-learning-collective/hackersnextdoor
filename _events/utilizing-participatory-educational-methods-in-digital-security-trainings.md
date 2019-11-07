@@ -1,5 +1,7 @@
 ---
 title: "Utilizing participatory educational methods in digital security trainings"
+startDate: 2019-12-14 20:45:00 -0500
+endDate: 2019-12-14 21:30:00 -0500
 speakers:
     - jonathanstriblinguss
 teaser: This is a professional participatory education workshop for secure use of the technology we all rely on. This workshop will leave you with the knowledge to protect your rights, encrypt sensitive data, and secure your communications. You will also learn about the Trump regime&rsquo;s threats to our liberties, both online and off.

@@ -1,8 +1,7 @@
 ---
 title: "Anti-Racist Technoculture for Racial Equity"
-#startDate: 2019-10-14 11:00:00 -0500
-#endDate: 2019-10-14 11:45:00 -0500
-#location: Triangle Arts Association
+startDate: 2019-12-14 12:00:00 -0500
+endDate: 2019-12-14 13:00:00 -0500
 speakers:
     - arimelenciano
 teaser: Examine how historical systematic racist practices have replicated themselves into present-day algorithms.

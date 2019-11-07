@@ -1,9 +1,8 @@
 ---
 title: "Signal and Surveillance: How to Exercise Digital Civil Liberties in a Surveillance State"
 image: https://techlearningcollective.com/static/images/workshop.signal-and-surveillance-how-to-exercise-digital-civil-liberties-in-a-surveillance-state.rectangle.png
-#startDate: 2019-10-14 11:00:00 -0500
-#endDate: 2019-10-14 11:45:00 -0500
-#location: Triangle Arts Association
+startDate: 2019-12-15 15:00:00 -0500
+endDate: 2019-12-15 16:00:00 -0500
 speakers:
     - techlearningcollective
 teaser: This introductory cybersecurity workshop will show you why Signal, a free, secure, private message app is simple enough to schedule drinks with, yet secure enough to use for planning a protest. As dragnet surveillance practices are legalized at alarming speed, there has never been a more important time to flex your digital civil liberties muscle than right now.

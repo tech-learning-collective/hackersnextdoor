@@ -4,24 +4,49 @@ layout: html5
 
 <p>{{ site.title }} session details for</p>
 
+<div class="h-event vevent" itemscope="itemscope" itemtype="https://schema.org/Event">
 {% assign the_title = page.title | split: ":" | first %}
 {% assign sub_title = page.title | split: ":" | slice: 1 %}
-<h1 id="{{ the_title | slugify }}">{{ the_title }}</h1>
+<h1 id="{{ the_title | slugify }}" class="p-name p-summary summary" itemprop="name">
+    <a href="{{ page.url }}" class="u-url url" itemprop="url" style="color: inherit; text-decoration: none;">{{ the_title }}</a>
+</h1>
 
 {% if page.image %}
-<img src="{{ page.image }}" alt="" class="session-photo" />
+<img src="{{ page.image }}" alt="" class="session-photo" itemprop="image" />
 {% endif %}
+
+<p><abbr class="dt-start dtstart" title="{{ page.startDate | date_to_xmlschema }}">{{ page.startDate | date: site.date_format }} from {{ page.startDate | date: site.time_format }}</abbr> to <abbr class="dt-end dtend" title="{{ page.endDate | date_to_xmlschema }}">{{ page.endDate | date: site.time_format }}</abbr></p>
+
+<meta itemprop="startDate" content="{{ page.startDate | date_to_xmlschema}}" />
+<meta itemprop="endDate" content="{{ page.endDate | date_to_xmlschema }}" />
+<meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
+<div class="p-location location" itemprop="location" itemscope="itemscope" itemtype="https://schema.org/Place" style="display: none;">
+    <div class="h-card vcard">
+        <div class="p-name fn org" itemprop="name">
+            <img src="https://images.squarespace-cdn.com/content/5b5b68c05ffd20964c1bb95e/1559837089204-NW733PSMLSASUW3D9IHW/TAlogotransparaentblack.png?format=1500w&content-type=image%2Fpng" alt="" class="u-photo photo" itemprop="image logo photo" />
+            <a href="https://www.triangle-arts-association.org/" class="url" itemprop="url">Triangle Arts Association</a>
+        </div>
+        <div class="h-adr adr" itemprop="address" itemscope="itemscope" itemtype="https://schema.org/PostalAddress">
+            <span class="p-street-address street-address" itemprop="streetAddress">20 Jay Street, Suite 317</span>
+            <span class="p-locality locality" itemprop="addressLocality">Brooklyn</span>
+            <span class="p-region region" itemprop="addressRegion">NY</span>
+            <span class="p-postal-code postal-code" itemprop="postalCode">11201</span>
+            <span class="p-country country" itemprop="addressCountry">United States</span>
+        </div>
+    </div>
+</div>
 
 {% for s in page.speakers %}
 {% assign speaker = site.data.speakers.speakers[s] %}
-<p class="speaker-photo">
+<p class="speaker-photo" itemprop="performer" itemscope="itemscope" itemtype="https://schema.org/Person">
     {% if speaker.image %}
-    <img src="{{ speaker.image }}" alt="Profile photo for {{ speaker.name }}" />
+    <img src="{{ speaker.image }}" alt="Profile photo for {{ speaker.name }}" itemprop="image" />
     {% endif %}
-    {% if forloop.first %}Presented by {% else %}and {% endif %}<a href="{% link speakers/index.md %}#{{ speaker.name | slugify }}">{{ speaker.name }}</a>
+    {% if forloop.first %}Presented by {% else %}and {% endif %}<a href="{% link speakers/index.md %}#{{ speaker.name | slugify }}"><span itemprop="name">{{ speaker.name }}</span></a>
 </p>
 {% endfor %}
 
+<div class="p-description description" itemprop="description">
 <h2 style="clear: none;">{{ sub_title }}</h2>
 
 {% if page.teaser %}
@@ -29,6 +54,8 @@ layout: html5
 {% endif %}
 
 {{ content }}
+</div><!-- .p-description.description -->
+</div><!-- .h-event.vevent -->
 
 {% comment %}
 {% include h-event.html event=page download_link=true paginate=true %}
