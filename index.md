@@ -21,7 +21,7 @@ For community organizers and movement builders, *Hackers Next Door* offers a wee
 
 By enhancing cybersecurity training for everyone and increasing public awareness of digital civil liberties issues, *Hackers Next Door* gives invited speakers a chance to showcase and workshop their educational methods and materials to and with an audience of like-minded and impassioned community organizers so that we can all learn from one another&rsquo;s experience and perspective.
 
-View the list of [confirmed speakers]({% link speakers/index.md %}), [conference sessions]({% link sessions/index.md %}), and [buy tickets]({% link tickets/index.md %}) today.
+View the list of [confirmed speakers]({% link speakers/index.md %}), [conference sessions]({% link sessions/index.md %}), or the [full conference schedule]({% link schedule/index.md %}). A ticket is *required* to attend, and no door sales are offered. [Buy tickets]({% link tickets/index.md %}) today.
 
 {:style="text-align: center;"}
 # Sponsors

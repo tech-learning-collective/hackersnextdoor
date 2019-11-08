@@ -5,7 +5,7 @@ i18n: schedule
 
 # Schedule
 
-[View schedule in Google/Apple/Microsoft/Mozilla calendar app.](http://h2vx.com/ics/get-cal.php?uri={{ page.url | absolute_url | uri_escape }} "Download this schedule to your calendar.")
+[View schedule in Google/Apple/Microsoft/Mozilla calendar app.](https://h2vx.com/ics/get-cal.php?uri={{ page.url | absolute_url | uri_escape }} "Download this schedule to your calendar.")
 
 {% assign last_block = site.data.schedule.blocks | sort: "startDate" | last %}
 {% assign last_block_end_time = last_block.startDate | date: "%s" | plus: last_block.duration %}
@@ -107,4 +107,4 @@ i18n: schedule
     </tbody>
 </table>
 
-[View schedule in Google/Apple/Microsoft/Mozilla calendar app.](http://h2vx.com/ics/get-cal.php?uri={{ page.url | absolute_url | uri_escape }} "Download this schedule to your calendar.")
+[View schedule in Google/Apple/Microsoft/Mozilla calendar app.](https://h2vx.com/ics/get-cal.php?uri={{ page.url | absolute_url | uri_escape }} "Download this schedule to your calendar.")
