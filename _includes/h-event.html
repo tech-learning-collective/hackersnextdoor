@@ -69,7 +69,7 @@ to be set on DIV elements, not ARTICLEs.
                 {% if place %}
                 {% include h-card.html entity=place isOrg=true %}
                 {% else %}
-                <span itemprop="address">{{ event.location }}</span>
+                <span itemprop="address">{{ event.location | default: site.iCalendar.defaults.location }}</span>
                 {% endif %}
             </li><!-- .p-location -->
             <li class="event-status">

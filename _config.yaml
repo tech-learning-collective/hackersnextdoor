@@ -72,7 +72,7 @@ defaults:
 # iCalendar settings.
 iCalendar:
     defaults:
-        location: 20 Jay Street, Suites 317 and 1010
+        location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
         status: CONFIRMED
         image: event-placeholder-image.jpg
 
