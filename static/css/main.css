@@ -187,6 +187,78 @@ ul {
 }
 
 /**
+ * Schedule table.
+ */
+#conference-schedule {
+    table-layout: fixed;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+#conference-schedule caption { visibility: hidden; }
+#conference-schedule th:nth-child(1) {
+    width: 175px;
+}
+#conference-schedule th:nth-child(2) {
+    width: 75px;
+}
+#conference-schedule td {
+    background-color: #0F002F;
+    opacity: .8;
+    border: 1px solid #FFF;
+    padding: .5em;
+    max-width: 25%;
+}
+#conference-schedule [src$="placeholder-image.jpg"],
+#conference-schedule .speaker-photo img,
+#conference-schedule .event-meta,
+#conference-schedule .p-description {
+    display: none;
+}
+
+#conference-schedule .speaker-photo {
+    text-align: center;
+}
+#conference-schedule a[href=""] {
+    color: inherit;
+    text-decoration: none;
+    cursor: default;
+}
+
+#conference-schedule td.block-name {
+    border-color: #000;
+    background: #FFF;
+    color: #000;
+    text-align: center;
+}
+#conference-schedule tr:first-child td.block-name {
+    border-radius: 2em 0 0 0;
+}
+#conference-schedule td.time-slot {
+    font-size: 9pt;
+}
+#conference-schedule td:not(.block-name):not(.time-slot) {
+    vertical-align: top;
+}
+#conference-schedule .u-url {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+#conference-schedule [itemprop="image"] {
+    margin-left: .5em;
+    max-width: 50%;
+    border-radius: .5em;
+}
+
+#conference-schedule h2 {
+    font-size: 16pt;
+    clear: none;
+}
+#conference-schedule .p-name {
+    font: inherit;
+}
+
+/**
  * @group Mobile styles.
  *
  * Put small-screen styles here.
@@ -201,5 +273,19 @@ ul {
     }
     #MainContent h2 {
         font-size: 24pt;
+    }
+    #conference-schedule h2,
+    #conference-schedule th {
+        font-size: 9pt;
+    }
+    #conference-schedule td {
+        font-size: 9pt;
+    }
+    #conference-schedule .u-url {
+        flex-wrap: wrap;
+    }
+    #conference-schedule [itemprop="image"] {
+        max-width: 100%;
+        margin: 0;
     }
 }

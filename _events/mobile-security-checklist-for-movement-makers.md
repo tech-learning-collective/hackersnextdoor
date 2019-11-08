@@ -2,6 +2,7 @@
 title: "Mobile security checklist for movement makers"
 startDate: 2019-12-15 14:15:00 -0500
 endDate: 2019-12-15 15:00:00 -0500
+location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - oliviamartin
 teaser: Members of movements use their phones to document abuses and triumphs, communicate with collaborators, and access shared documents. All this sensitive movement data requires additional effort to keep secure prior to and during an action, and recover if things go wrong. Participants at this talk should expect to walk away with a quick-start to protect the sensitive data on their mobile phones.

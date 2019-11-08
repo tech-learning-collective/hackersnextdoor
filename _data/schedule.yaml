@@ -1,0 +1,90 @@
+---
+startDate: 2019-12-14 11:00:00 -0500
+endDate: 2019-12-15 22:00:00 -0500
+timeIncrement: 900 # 15 minutes
+blocks:
+    # The order of these blocks matters because Jekyll does not offer
+    # any meaninful DateTime or Time object conversion filters. :(
+    - name: Welcome
+      startDate: 2019-12-14 11:00:00 -0500
+      duration: 3600 # 1 hour
+    - name: Racist Policing Then and Now
+      startDate: 2019-12-14 12:00:00 -0500
+      duration: 3600
+    - name: Community Initiatives
+      startDate: 2019-12-14 13:00:00 -0500
+      duration: 3600
+    - name: Break
+      startDate: 2019-12-14 14:00:00 -0500
+      duration: 900 # 15 minutes
+    - name: Fighting the Surveillance State
+      startDate: 2019-12-14 14:15:00 -0500
+      duration: 6300 # An hour and 45 minutes.
+    - name: Lunch
+      startDate: 2019-12-14 16:00:00 -0500
+      duration: 3600
+    - name: Tor and Other TTPs (Tools, Techniques, and Procedures)
+      startDate: 2019-12-14 17:00:00 -0500
+      duration: 7200 # 2 hours
+    - name: Threat Modeling
+      startDate: 2019-12-14 19:00:00 -0500
+      duration: 2700 # 45 minutes
+    - name: Makers and Breakers
+      startDate: 2019-12-14 19:45:00 -0500
+      duration: 3600
+    - name: Participatory Technologies
+      startDate: 2019-12-14 20:45:00 -0500
+      duration: 2700
+    - name: Farewell
+      startDate: 2019-12-14 21:30:00 -0500
+      duration: 1800 # 30 minutes
+
+meta_sessions:
+    - title: Check-In
+      startDate: 2019-12-14 11:00:00 -0500
+      duration: 900
+    - title: Check-In
+      startDate: 2019-12-15 11:00:00 -0500
+      duration: 900
+    - title: Meet and Greet
+      startDate: 2019-12-14 11:15:00 -0500
+      duration: 1800
+    - title: Meet and Greet
+      startDate: 2019-12-15 11:15:00 -0500
+      duration: 1800
+    - title: Opening Remarks
+      startDate: 2019-12-15 11:45:00 -0500
+      duration: 900
+    - title: Opening Remarks
+      startDate: 2019-12-15 11:45:00 -0500
+      duration: 900
+    - title: Break
+      startDate: 2019-12-14 14:00:00 -0500
+      duration: 900
+    - title: Break
+      startDate: 2019-12-15 14:00:00 -0500
+      duration: 900
+    - title: Lunch
+      startDate: 2019-12-14 16:00:00 -0500
+      duration: 2700
+    - title: Lunch
+      startDate: 2019-12-15 16:00:00 -0500
+      duration: 2700
+    - title: What Does a Hacker See?
+      startDate: 2019-12-14 16:45:00 -0500
+      duration: 900
+    - title: What Does a Hacker See? (Redux)
+      startDate: 2019-12-15 16:45:00 -0500
+      duration: 900
+    - title: Break
+      startDate: 2019-12-14 19:45:00 -0500
+      duration: 900
+    - title: Break
+      startDate: 2019-12-15 18:00:00 -0500
+      duration: 900
+    - title: End-of-Day Remarks
+      startDate: 2019-12-14 21:30:00 -0500
+      duration: 1800
+    - title: Closing Remarks
+      startDate: 2019-12-15 21:30:00 -0500
+      duration: 1800

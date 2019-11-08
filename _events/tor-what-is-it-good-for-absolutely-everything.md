@@ -3,6 +3,7 @@ title: "Tor: What is it Good For? (Absolutely Everything!)"
 image: https://techlearningcollective.com/static/images/workshop.tor-what-is-it-good-for-absolutely-everything.rectangle.png
 startDate: 2019-12-14 18:00:00 -0500
 endDate: 2019-12-14 19:00:00 -0500
+location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - techlearningcollective
 teaser: Come learn how the free Tor Web Browser, a free, state-of-the-art, privacy-enhancing Web browser, SOCKS proxy, and anonymizing overlay mixnet, can be your gateway to the Dark Web while simultaneously keeping you safer and your personal info more private as you browse web sites big and small.

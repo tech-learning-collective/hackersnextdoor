@@ -2,6 +2,7 @@
 title: "Taking Back the Internet with Tor"
 startDate: 2019-12-14 17:00:00 -0500
 endDate: 2019-12-14 18:00:00 -0500
+location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - isabelabagueros
 teaser: Tracking, surveillance, and censorship are widespread online, but Tor tools, including Tor Browser and onion services, empower you to take back the internet.

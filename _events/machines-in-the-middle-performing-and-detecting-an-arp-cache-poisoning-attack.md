@@ -2,6 +2,7 @@
 title: "Machines in the Middle: Performing and Detecting an ARP Cache Poisoning Attack"
 startDate: 2019-12-14 20:00:00 -0500
 endDate: 2019-12-14 20:45:00 -0500
+location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - anarchotechnyc
 teaser: Solidify your understanding of the data-link layer (OSI Layer 2) at this hands-on workshop that will walk you through the process of performing a classic ARP spoofing attack, a fundamental NetSec technique that is still used in many real-life hacking scenarios today.

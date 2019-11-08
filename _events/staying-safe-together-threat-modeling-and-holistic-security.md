@@ -2,6 +2,7 @@
 title: "Staying Safe Together: Threat Modeling and Holistic Security"
 startDate: 2019-12-14 19:00:00 -0500
 endDate: 2019-12-14 19:45:00 -0500
+location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - grey
 teaser: Threats are everywhere all the time! But we still need to be able to function in our lives and in our organizing. This workshop will give an introduction to threat modeling, exploring tools we can use to make safe space for discussion of threats in our work, and building stronger more resilient communities and groups.

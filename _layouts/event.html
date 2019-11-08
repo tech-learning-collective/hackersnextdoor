@@ -36,21 +36,13 @@ layout: html5
     </div>
 </div>
 
-{% for s in page.speakers %}
-{% assign speaker = site.data.speakers.speakers[s] %}
-<p class="speaker-photo" itemprop="performer" itemscope="itemscope" itemtype="https://schema.org/Person">
-    {% if speaker.image %}
-    <img src="{{ speaker.image }}" alt="Profile photo for {{ speaker.name }}" itemprop="image" />
-    {% endif %}
-    {% if forloop.first %}Presented by {% else %}and {% endif %}<a href="{% link speakers/index.md %}#{{ speaker.name | slugify }}"><span itemprop="name">{{ speaker.name }}</span></a>
-</p>
-{% endfor %}
+{% include speaker-byline.html speakers=page.speakers %}
 
 <div class="p-description description" itemprop="description">
 <h2 style="clear: none;">{{ sub_title }}</h2>
 
 {% if page.teaser %}
-<p>{{ page.teaser | markdownify }}</p>
+{{ page.teaser | markdownify }}
 {% endif %}
 
 {{ content }}

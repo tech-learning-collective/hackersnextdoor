@@ -2,6 +2,7 @@
 title: "Anti-Racist Technoculture for Racial Equity"
 startDate: 2019-12-14 12:00:00 -0500
 endDate: 2019-12-14 13:00:00 -0500
+location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - arimelenciano
 teaser: Examine how historical systematic racist practices have replicated themselves into present-day algorithms.

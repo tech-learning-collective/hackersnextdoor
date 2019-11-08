@@ -2,6 +2,7 @@
 title: "Surveillance and the City: New York&rsquo;s Spy State"
 startDate: 2019-12-14 14:15:00 -0500
 endDate: 2019-12-14 15:15:00 -0500
+location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - albertfoxcahn
 teaser: Wondering if the new year will look like 1984, join the Surveillance Technology Oversight Project Executive Director Albert Fox Cahn for a briefing on the fight to reform NYPD surveillance and protect privacy.

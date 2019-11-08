@@ -1,0 +1,9 @@
+{% for s in include.speakers %}
+{% assign speaker = site.data.speakers.speakers[s] %}
+<p class="speaker-photo">
+{% if speaker.image %}
+<img src="{{ speaker.image }}" alt="Profile photo for {{ speaker.name }}" />
+{% endif %}
+{% if forloop.first %}Presented by {% else %}and {% endif %}<a href="{% link speakers/index.md %}#{{ speaker.name | slugify }}">{{ speaker.name }}</a>
+</p>
+{% endfor %}
