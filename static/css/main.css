@@ -242,13 +242,13 @@ ul {
     vertical-align: top;
 }
 #conference-schedule .u-url {
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: center;
+    display: grid;
+    grid-template-areas: "a b";
+    grid-gap: .5em;
 }
 #conference-schedule [itemprop="image"] {
-    margin-left: .5em;
-    max-width: 50%;
+    grid-area: b;
+    width: 100%;
     border-radius: .5em;
 }
 
@@ -284,10 +284,9 @@ ul {
         font-size: 9pt;
     }
     #conference-schedule .u-url {
-        flex-wrap: wrap;
+        display: block;
     }
     #conference-schedule [itemprop="image"] {
         max-width: 100%;
-        margin: 0;
     }
 }
