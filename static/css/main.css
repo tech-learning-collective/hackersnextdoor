@@ -258,6 +258,7 @@ ul {
 }
 #conference-schedule .p-name {
     font: inherit;
+    line-height: 1.25em;
 }
 
 /**
