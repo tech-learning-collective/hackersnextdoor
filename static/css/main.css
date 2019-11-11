@@ -256,7 +256,8 @@ ul {
     font-size: 16pt;
     clear: none;
 }
-#conference-schedule .p-name {
+#conference-schedule .p-name,
+#conference-schedule .speaker-photo {
     font: inherit;
     line-height: 1.25em;
 }
