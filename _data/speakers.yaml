@@ -318,6 +318,10 @@ speakers:
 
     tasliymfrancis:
         name: Tasliym Francis
+        bio: |
+            Tasliym Francis is a community activist, floor captain, and Chandler (candle-maker), residing at Ocean Hill, Brooklyn. She has interned with Assemblywoman Latrice Walker, and has received both, a leadership role as a student/parent representative, and an honorary award of appreciation through The Children&rsquo;s Center of John Jay College. Since then she has become a strong advocate in pushing for laws to protect tenants against future biometric technology, banning the use of facial recognition on residences, and representing communities such as her own, that are too often overlooked/disregarded.
+
+            Tasliym completed her bachelor&rsquo;s degree in law and Society at John Jay College and has completed program trainings such as the Law School Prep Program given by the Pre-Law Institute.
         presentations:
             - is-it-facial-or-is-it-racial-the-threat-of-face-recognition-technology-in-nyc-housing
 
@@ -332,5 +336,8 @@ speakers:
 
     tranaemoran:
         name: Tranae Moran
+        image: /static/images/speaker.photo.tranae-moran.jpg
+        bio: |
+            Tranae Moran is a resin artist and luxury sales and merchandising professional from Ocean Hill, Brownsville. She&rsquo;s a graduate of Brooklyn College with a Bachelors in Business Administration with concentration in Marketing. She is a community advocate and serves through service initiatives such as Art Grief Therapy and using her voice and skill set as a floor captain and member of The Atlantic Towers Tenants Association. She has been on the frontlines with her neighbors speaking out against the use of Facial Recognition technology in the 24 story apartment complex in Ocean Hill, Brownsville and has made positive strides in pushing back against building management and creating awareness around facial recognition and the collection of biometric data in residential communities.
         presentations:
             - is-it-facial-or-is-it-racial-the-threat-of-face-recognition-technology-in-nyc-housing
