@@ -147,6 +147,9 @@ ul {
     clear: both;
 }
 
+.speaker-photo {
+    clear: left;
+}
 .speaker-photo img {
     float: left;
     border-radius: 50%;
