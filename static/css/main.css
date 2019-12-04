@@ -50,6 +50,19 @@ a.button:hover {
     box-shadow: 0 0 50px var(--accent-color);
 }
 
+p.notice  {
+    margin: 0 auto;
+    border-radius: .5em;
+    padding: .5em;
+    background: black;
+    max-width: max-content;
+    box-shadow: 0 0 20px #5dccee;
+    text-decoration: none;
+}
+ins:before {
+    content: "Added on " attr(data-datetime-display) ": ";
+}
+
 /**
  * @group Reset.
  */
