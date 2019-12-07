@@ -46,9 +46,12 @@ layout: html5
 {% endif %}
 
 {{ content }}
-</div><!-- .p-description.description -->
-</div><!-- .h-event.vevent -->
 
-{% comment %}
-{% include h-event.html event=page download_link=true paginate=true %}
-{% endcomment %}
+</div><!-- .p-description.description -->
+
+<h3>Session Tools</h3>
+<ul style="font-size: smaller;">
+    <li><a href="https://pad.riseup.net/p/tlc-hnd-{{ page.startDate | date: "%Y-%m-%dT%H:%M" | cgi_escape }}">Collaborative notepad</a> (<a  href="https://pad.riseup.net/p/tlc-hnd-{{ page.startDate | date: "%Y-%m-%dT%H_%M" | cgi_escape }}/export/txt">download current notes</a>)</li>
+</ul>
+
+</div><!-- .h-event.vevent -->
