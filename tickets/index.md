@@ -13,6 +13,9 @@ Space is limited. A ticket is required to attend.
 [Buy tickets now](https://www.artful.ly/store/events/19216){:.button}
 
 {:.notice}
+<ins datetime="2019-12-11T22:00:00-0500" data-datetime-display="December 11, 2019 at 10:00 PM">All tickets for all events have completely sold out.</ins>
+
+{:.notice}
 <ins datetime="2019-12-10T12:10:00-0500" data-datetime-display="December 10, 2019 at 12:10 PM">All Saturday (Day 1) tickets have sold out. At this time, only single-day passes for Sunday (Day 2) remain on sale.</ins>
 
 {:.notice}
