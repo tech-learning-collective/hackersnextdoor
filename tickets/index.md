@@ -10,7 +10,7 @@ Space is limited. A ticket is required to attend.
 *No walk-ins* are allowed, and *no door sales* are offered.
 
 {:.toolbar}
-[Buy tickets now](https://www.artful.ly/store/events/19216){:.button}
+[Buy tickets now (SOLD OUT)](#button)
 
 {:.notice}
 <ins datetime="2019-12-11T22:00:00-0500" data-datetime-display="December 11, 2019 at 10:00 PM">All tickets for all events have completely sold out.</ins>
