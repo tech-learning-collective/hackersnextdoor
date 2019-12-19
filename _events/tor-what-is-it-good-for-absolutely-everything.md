@@ -7,6 +7,9 @@ location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - techlearningcollective
 teaser: Come learn how the free Tor Web Browser, a free, state-of-the-art, privacy-enhancing Web browser, SOCKS proxy, and anonymizing overlay mixnet, can be your gateway to the Dark Web while simultaneously keeping you safer and your personal info more private as you browse web sites big and small.
+conference: "2019"
+redirect_from:
+    - /events/tor-what-is-it-good-for-absolutely-everything
 ---
 
 From illegal online drug stores like Silk Road to DDoS botnet command and control headquarters, media attention has long painted “the Dark Web” as though nothing good can come of it. But learn just a little bit more about how Tor and “hidden services” work and you’ll find a treasure trove of valuable possibilities for day-to-day Internet use. The same technology that can hide the location of a drug ring can also serve as a free VPN-like service to protect your privacy while you browse the Internet, make censored websites available again, and even let you host your own Internet services for free, all without opening a single port on your firewall!

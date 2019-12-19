@@ -39,7 +39,7 @@ time_format: "%l:%M %p"
 collections:
     events:
         output: true
-        permalink: /:collection/:title
+        permalink: /:year/:collection/:title
         sort_by: startDate
 
 # Front matter defaults.
@@ -68,6 +68,12 @@ defaults:
       path: es
     values:
       lang: es
+
+  # Set the `conference` page variable for archived conference pages.
+  - scope:
+      path: "2019"
+    values:
+      conference: "2019"
 
 # iCalendar settings.
 iCalendar:
@@ -101,3 +107,4 @@ exclude:
 plugins:
     - jekyll-seo-tag
     - jekyll-feed
+    - jekyll-redirect-from

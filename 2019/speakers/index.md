@@ -1,6 +1,9 @@
 ---
 title: Speakers
 i18n: speakers
+redirect_from:
+    - /speakers
+    - /speakers/
 ---
 
 {:style="margin-bottom: 50px;"}

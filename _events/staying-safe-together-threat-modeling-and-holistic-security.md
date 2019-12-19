@@ -6,6 +6,9 @@ location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - grey
 teaser: Threats are everywhere all the time! But we still need to be able to function in our lives and in our organizing. This workshop will give an introduction to threat modeling, exploring tools we can use to make safe space for discussion of threats in our work, and building stronger more resilient communities and groups.
+conference: "2019"
+redirect_from:
+    - /events/staying-safe-together-threat-modeling-and-holistic-security
 ---
 
 For this presentation, the folks at Cypurr will present tools that you and your communities can use to help manage threat. We will be looking at the Holistic Security methodology of threat modeling, developed by the Tactical Tech Collective, a privacy and cybersecurity awareness group, based out of Berlin. (Free version of book Holistic Security available here: [https://holistic-security.tacticaltech.org](https://holistic-security.tacticaltech.org).)

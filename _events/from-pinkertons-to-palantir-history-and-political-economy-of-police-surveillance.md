@@ -6,6 +6,9 @@ location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - abihassen
 teaser: The recent onslaught of tech driven surveillance might seem like a new phenomenon but it can also be seen as a continuation of long-running dynamics. Technology, state control, and quasi-scientific techniques have a long, deeply intertwined history. Understanding this history is important for contextualizing any attempts to change the current  systems.
+conference: "2019"
+redirect_from:
+    - /events/from-pinkertons-to-palantir-history-and-political-economy-of-police-surveillance
 ---
 
 The tech community spends a lot of time thinking about &ldquo;threat modeling&rdquo; and responding to specific technical vulnerabilities, this presentation is an attempt at expanding that thinking by looking at larger systems and strategies.

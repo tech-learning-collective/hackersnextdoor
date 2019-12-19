@@ -30,35 +30,36 @@ main:
 
     # List of links for the `en_US` language.
     - url: /
+      text: "Home"
+    - url: /#archives
+      text: Archives
+      title_text: Information about prior events
+
+
+"2019":
+
+  # English language for the United States region.
+  en_US:
+
+    # List of links for the `en_US` language.
+    - url: 2019/
       text: "Hackers Next Door: An InfoSec Conference"
       title_text: Homepage
     #- url: /about/
     #  text: About
-    - url: /speakers/
+    - url: 2019/speakers/
       text: Speakers
-    - url: /sessions/
+    - url: 2019/sessions/
       text: Sessions
-    - url: /location/
+    - url: 2019/location/
       text: Location
-    - url: /schedule/
+    - url: 2019/schedule/
       text: Schedule
-    - url: /tickets/
+    - url: 2019/tickets/
       text: Tickets
-    - url: /sponsors/
+    - url: 2019/sponsors/
       text: Sponsors
-    - url: /policies/
+    - url: 2019/policies/
       text: Policies
-    - url: /press/
+    - url: 2019/press/
       text: Press
-
-  # Spanish language.
-  es:
-
-    # List of links for the `es` language.
-    - url: /es/
-      text: Inicio
-    - url: /es/acercadenosotros/
-      text: Acerca de Nosotros
-      title_text: ¡Aprenda más acerca de nosotros!
-    - url: /es/contactenos/
-      text: Contáctenos

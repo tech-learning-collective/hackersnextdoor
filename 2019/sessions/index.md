@@ -1,6 +1,9 @@
 ---
 title: Sessions
 i18n: Sessions
+redirect_from:
+    - /sessions
+    - /sessions/
 ---
 
 # Sessions

@@ -1,6 +1,9 @@
 ---
 title: Policies
 i18n: policies
+redirect_from:
+    - /policies
+    - /policies/
 ---
 
 # Event Policies

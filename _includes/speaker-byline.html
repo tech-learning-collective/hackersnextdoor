@@ -4,6 +4,6 @@
 {% if speaker.image %}
 <img src="{{ speaker.image }}" alt="Profile photo for {{ speaker.name }}" />
 {% endif %}
-{% if forloop.first %}Presented by {% else %}and {% endif %}<a href="{% link speakers/index.md %}#{{ speaker.name | slugify }}">{{ speaker.name }}</a>
+{% if forloop.first %}Presented by {% else %}and {% endif %}<a href="{% link 2019/speakers/index.md %}#{{ speaker.name | slugify }}">{{ speaker.name }}</a>
 </p>
 {% endfor %}

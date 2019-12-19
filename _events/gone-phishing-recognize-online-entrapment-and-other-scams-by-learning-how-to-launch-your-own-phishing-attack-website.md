@@ -7,6 +7,9 @@ location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - anarchotechnyc
 teaser: This workshop is a combination “attack/defense” exercise focusing on Web-based social engineering attacks. Participants will practice both how to launch their own attacks as well as how to defend against them.
+conference: "2019"
+redirect_from:
+    - /events/gone-phishing-recognize-online-entrapment-and-other-scams-by-learning-how-to-launch-your-own-phishing-attack-website
 ---
 
 Even if your online accounts are bulletproof, you can still get caught out by a “phishing” attack that steals your private data, like your username and password. In fact, from corporate espionage to police entrapment, most cyberattacks don’t start with sophisticated software exploits, but rather by employing relatively simple tricks. These tricks are called “phishing” attacks because, much like baiting a lure, they won’t work unless you bite. However, many people do get caught up by them.

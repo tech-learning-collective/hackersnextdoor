@@ -1,6 +1,9 @@
 ---
 title: Tickets
 i18n: tickets
+redirect_from:
+    - /tickets
+    - /tickets/
 ---
 
 # Buy Tickets

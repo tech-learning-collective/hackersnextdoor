@@ -1,6 +1,9 @@
 ---
 title: Schedule
 i18n: schedule
+redirect_from:
+    - /schedule
+    - /schedule/
 ---
 
 # Schedule

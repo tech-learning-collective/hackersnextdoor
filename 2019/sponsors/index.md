@@ -1,6 +1,9 @@
 ---
 title: Sponsors
 i18n: sponsors
+redirect_from:
+    - /sponsors
+    - /sponsors/
 ---
 
 {:style="margin-bottom: 50px;"}
