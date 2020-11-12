@@ -35,6 +35,11 @@ main:
       text: Archives
       title_text: Information about prior events
 
+"2021":
+  en_US:
+    - url: /
+      text: "Home"
+
 "2020":
   en_US:
     - url: /
