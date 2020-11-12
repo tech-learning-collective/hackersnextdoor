@@ -1,8 +1,9 @@
 ---
 title: "Digital Defenses for the People: Practical Digital Security"
 image: https://techlearningcollective.com/static/images/workshop.digital-defenses-for-the-people-practical-digital-security.rectangle.png
-startDate: 2019-12-15 19:00:00 -0500
+startDate: &startDate 2019-12-15 19:00:00 -0500
 endDate: 2019-12-15 19:45:00 -0500
+date: *startDate
 location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - techlearningcollective

@@ -1,7 +1,8 @@
 ---
 title: "Mobile security checklist for movement makers"
-startDate: 2019-12-15 14:15:00 -0500
+startDate: &startDate 2019-12-15 14:15:00 -0500
 endDate: 2019-12-15 15:00:00 -0500
+date: *startDate
 location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - oliviamartin

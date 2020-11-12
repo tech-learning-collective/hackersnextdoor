@@ -1,7 +1,8 @@
 ---
 title: "Network the Revolution: Building Alternative Internets"
-startDate: 2019-12-15 20:45:00 -0500
+startDate: &startDate 2019-12-15 20:45:00 -0500
 endDate: 2019-12-15 21:30:00 -0500
+date: *startDate
 location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 image: /static/images/session.photo.network-the-revolution-building-alternative-internets.png
 speakers:

@@ -1,7 +1,8 @@
 ---
 title: "Whose AIs Are On Your Data?: How Web De-Centralization May Be the Civil Rights Battle of Our Time"
-startDate: 2019-12-15 19:45:00 -0500
+startDate: &startDate 2019-12-15 19:45:00 -0500
 endDate: 2019-12-15 20:45:00 -0500
+date: *startDate
 location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - daviottenheimer

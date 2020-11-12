@@ -1,7 +1,8 @@
 ---
 title: "Legal Hackers Workshop: Protecting Privilege and Encryption for Lawyers"
-startDate: 2019-12-15 18:15:00 -0500
+startDate: &startDate 2019-12-15 18:15:00 -0500
 endDate: 2019-12-15 19:00:00 -0500
+date: *startDate
 location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - nickmerrill

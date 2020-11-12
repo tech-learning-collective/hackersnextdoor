@@ -1,7 +1,8 @@
 ---
 title: "Staying Safe Together: Threat Modeling and Holistic Security"
-startDate: 2019-12-14 19:00:00 -0500
+startDate: &startDate 2019-12-14 19:00:00 -0500
 endDate: 2019-12-14 19:45:00 -0500
+date: *startDate
 location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - grey

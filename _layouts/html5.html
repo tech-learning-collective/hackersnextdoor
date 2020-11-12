@@ -7,7 +7,12 @@
 {% include head.html %}
 <body>
     <div id="background-wrap"></div>{% comment %}This is needed for mobile webkit (Chrome/Safari) to emulate `background-attachment: fixed`.{% endcomment %}
-    {% include masthead.html conference=page.conference %}
+    {% if page.conference %}
+        {% assign conference = page.conference %}
+    {% else %}
+        {% assign conference = site.time | date: "%Y" %}
+    {% endif %}
+    {% include masthead.html conference=conference %}
     <main id="MainContent">
     {{ content }}
     </main>

@@ -1,8 +1,9 @@
 ---
 title: "Signal and Surveillance: How to Exercise Digital Civil Liberties in a Surveillance State"
 image: https://techlearningcollective.com/static/images/workshop.signal-and-surveillance-how-to-exercise-digital-civil-liberties-in-a-surveillance-state.rectangle.png
-startDate: 2019-12-15 15:00:00 -0500
+startDate: &startDate 2019-12-15 15:00:00 -0500
 endDate: 2019-12-15 16:00:00 -0500
+date: *startDate
 location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - techlearningcollective

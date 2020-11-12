@@ -1,7 +1,8 @@
 ---
 title: "Surveillance and the City: New York&rsquo;s Spy State"
-startDate: 2019-12-14 14:15:00 -0500
+startDate: &startDate 2019-12-14 14:15:00 -0500
 endDate: 2019-12-14 15:15:00 -0500
+date: *startDate
 location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - albertfoxcahn

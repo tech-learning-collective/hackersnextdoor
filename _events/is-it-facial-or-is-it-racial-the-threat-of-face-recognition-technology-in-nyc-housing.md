@@ -1,7 +1,8 @@
 ---
 title: "Is it Facial or is it Racial?: The Threat of Face Recognition Technology in NYC Housing"
-startDate: 2019-12-15 13:00:00 -0500
+startDate: &startDate 2019-12-15 13:00:00 -0500
 endDate: 2019-12-15 14:00:00 -0500
+date: *startDate
 location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - tasliymfrancis

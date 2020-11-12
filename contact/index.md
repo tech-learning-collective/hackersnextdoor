@@ -5,4 +5,4 @@ i18n: contact
 
 # Contact
 
-Contact page.
+Please direct **all inquiries** to our parent organization, [Tech Learning Collective](https://techlearningcollective.com/contact/).

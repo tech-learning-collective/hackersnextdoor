@@ -1,7 +1,8 @@
 ---
 title: "Machines in the Middle: Performing and Detecting an ARP Cache Poisoning Attack"
-startDate: 2019-12-14 20:00:00 -0500
+startDate: &startDate 2019-12-14 20:00:00 -0500
 endDate: 2019-12-14 20:45:00 -0500
+date: *startDate
 location: 20 Jay Street, Suite 317, Brooklyn, NY, 11201, United States
 speakers:
     - anarchotechnyc
