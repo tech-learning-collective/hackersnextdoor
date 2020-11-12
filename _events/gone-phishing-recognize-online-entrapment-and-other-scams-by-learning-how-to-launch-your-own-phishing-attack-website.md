@@ -1,6 +1,6 @@
 ---
 title: "Gone Phishing: Recognize Online Entrapment and Other Scams by Learning How to Launch Your Own Phishing Attack Website"
-image: https://techlearningcollective.com/static/images/workshop.gone-phishing-how-to-recognize-fake-websites-and-other-online-scams.blue.rectangle.png
+image: https://techlearningcollective.com/static/images/workshop.gone-phishing-how-to-recognize-fake-websites-and-other-online-scams.rectangle.jpg
 startDate: &startDate 2019-12-15 17:00:00 -0500
 endDate: 2019-12-15 18:00:00 -0500
 date: *startDate

@@ -1,6 +1,6 @@
 ---
 title: "Digital Defenses for the People: Practical Digital Security"
-image: https://techlearningcollective.com/static/images/workshop.digital-defenses-for-the-people-practical-digital-security.rectangle.png
+image: https://techlearningcollective.com/static/images/workshop.digital-defenses-for-the-people-practical-digital-security.rectangle.jpg
 startDate: &startDate 2019-12-15 19:00:00 -0500
 endDate: 2019-12-15 19:45:00 -0500
 date: *startDate

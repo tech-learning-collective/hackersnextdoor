@@ -241,7 +241,7 @@ speakers:
 
     daviottenheimer:
         name: Davi Ottenheimer
-        image: https://inrupt.com/sites/default/files/2019-09/inrupt_headashot_davi%2001.jpg
+        image: https://web.archive.org/web/20200709045132if_/https://inrupt.com/sites/default/files/2019-09/inrupt_headashot_davi%2001.jpg
         bio: |
             Davi in the last two years led development of client-side field-level encryption in a non-relational database. He brings 25+ years&rsquo; experience as a head of security and trust managing global security engineering, operations and assessments, and over a decade of leading incident response and digital forensics. Davi has helped serve customer data protection needs across many industries including data storage and management, software, investment, banking, international retail, as well as higher education, healthcare and aerospace.
         presentations:
